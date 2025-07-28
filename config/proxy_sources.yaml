@@ -1,0 +1,19 @@
+# Proxy Configuration
+# Add your own proxy resources here for better reliability
+
+free_proxy_sources:
+  - "https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain"
+  - "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
+
+own_resources:
+  vpn_endpoints:
+    # Add your VPN endpoints here: "username:password@vpn.server.com:port"
+    # - "user:pass@vpn1.example.com:8080"
+
+  ssh_tunnels:
+    # Add your SSH tunnels here: "socks5://localhost:port"
+    # - "socks5://localhost:1080"
+
+  cloud_instances:
+    # Add your cloud proxy instances here: "ip:port"
+    # - "192.168.1.100:3128"

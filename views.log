@@ -1,0 +1,97 @@
+2025-07-28 03:28:58,131 - INFO - Fetching proxies from: https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:28:58,813 - INFO - Loaded 0 proxies from https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:28:58,813 - INFO - Fetching proxies from: https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:28:59,918 - INFO - Loaded 38047 proxies from https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:28:59,950 - INFO - Loaded 38047 total unique proxies (38047 free, 0 owned)
+2025-07-28 03:28:59,955 - INFO - Performing initial proxy health checks...
+2025-07-28 03:36:09,603 - INFO - Fetching proxies from: https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:36:10,437 - INFO - Loaded 0 proxies from https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:36:10,438 - INFO - Fetching proxies from: https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:36:12,017 - INFO - Loaded 38047 proxies from https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:36:12,244 - INFO - Limited to 500 proxies for faster startup
+2025-07-28 03:36:12,247 - INFO - Loaded 500 total unique proxies (38047 free, -37547 owned)
+2025-07-28 03:36:12,315 - INFO - Performing initial proxy health checks on 500 proxies...
+2025-07-28 03:36:24,239 - INFO - Health check complete: 4/500 proxies are healthy
+2025-07-28 03:36:24,258 - INFO - Starting view generation: 10 views for https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 03:36:24,264 - INFO - Getting initial view count...
+2025-07-28 03:36:24,265 - ERROR - Could not extract video ID from URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 03:36:24,266 - WARNING - Could not get initial view count - will skip verification
+2025-07-28 03:36:24,268 - INFO - Estimated completion time: 0.2 hours
+2025-07-28 03:36:24,269 - INFO - Using 1 concurrent threads
+2025-07-28 03:36:24,277 - INFO - ====== WebDriver manager ======
+2025-07-28 03:36:25,335 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 03:39:11,126 - INFO - Fetching proxies from: https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:39:11,559 - INFO - Loaded 0 proxies from https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:39:11,559 - INFO - Fetching proxies from: https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:39:12,800 - INFO - Loaded 38047 proxies from https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:39:12,961 - INFO - Limited to 500 proxies for faster startup
+2025-07-28 03:39:12,961 - INFO - Loaded 500 total unique proxies (38047 free, -37547 owned)
+2025-07-28 03:39:13,013 - INFO - Quick proxy setup - testing first 50 proxies...
+2025-07-28 03:39:16,405 - WARNING - Found few healthy proxies, adding untested ones...
+2025-07-28 03:39:16,408 - INFO - Quick setup complete: 10 proxies ready
+2025-07-28 03:39:16,410 - INFO - Starting view generation: 10 views for https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 03:39:16,411 - INFO - Getting initial view count...
+2025-07-28 03:39:16,412 - ERROR - Could not extract video ID from URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 03:39:16,412 - WARNING - Could not get initial view count - will skip verification
+2025-07-28 03:39:16,413 - INFO - Estimated completion time: 0.2 hours
+2025-07-28 03:39:16,414 - INFO - Using 1 concurrent threads
+2025-07-28 03:39:16,416 - INFO - ====== WebDriver manager ======
+2025-07-28 03:39:17,447 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 03:42:47,097 - INFO - Fetching proxies from: https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:42:47,804 - INFO - Loaded 0 proxies from https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:42:47,806 - INFO - Fetching proxies from: https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:42:49,580 - INFO - Loaded 38047 proxies from https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:42:49,856 - INFO - Limited to 500 proxies for faster startup
+2025-07-28 03:42:49,857 - INFO - Loaded 500 total unique proxies (38047 free, -37547 owned)
+2025-07-28 03:42:49,923 - INFO - Quick proxy setup - testing first 50 proxies...
+2025-07-28 03:42:50,970 - WARNING - Found few healthy proxies, adding untested ones...
+2025-07-28 03:42:50,971 - INFO - Quick setup complete: 10 proxies ready
+2025-07-28 03:42:50,974 - INFO - Starting view generation: 3 views for https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 03:42:50,979 - INFO - Getting initial view count...
+2025-07-28 03:42:52,274 - INFO - Initial view count: 19
+2025-07-28 03:42:52,274 - INFO - Estimated completion time: 0.1 hours
+2025-07-28 03:42:52,275 - INFO - Using 0 concurrent threads
+2025-07-28 03:51:43,018 - INFO - Fetching proxies from: https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:51:43,675 - INFO - Loaded 0 proxies from https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:51:43,678 - INFO - Fetching proxies from: https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:51:45,417 - INFO - Loaded 38047 proxies from https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:51:45,653 - INFO - Limited to 500 proxies for faster startup
+2025-07-28 03:51:45,653 - INFO - Loaded 500 total unique proxies (38047 free, -37547 owned)
+2025-07-28 03:51:45,722 - INFO - Quick proxy setup - testing first 50 proxies...
+2025-07-28 03:51:49,343 - WARNING - Found few healthy proxies, adding untested ones...
+2025-07-28 03:51:49,344 - INFO - Quick setup complete: 10 proxies ready
+2025-07-28 03:51:49,346 - INFO - Starting view generation: 2 views for https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 03:51:49,347 - INFO - Getting initial view count...
+2025-07-28 03:51:50,282 - INFO - Initial view count: 19
+2025-07-28 03:51:50,284 - INFO - Estimated completion time: 0.1 hours
+2025-07-28 03:51:50,285 - INFO - Using 0 concurrent threads
+2025-07-28 03:52:29,558 - INFO - Fetching proxies from: https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:52:29,966 - INFO - Loaded 0 proxies from https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 03:52:29,967 - INFO - Fetching proxies from: https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:52:31,156 - INFO - Loaded 38047 proxies from https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 03:52:31,357 - INFO - Limited to 500 proxies for faster startup
+2025-07-28 03:52:31,358 - INFO - Loaded 500 total unique proxies (38047 free, -37547 owned)
+2025-07-28 03:52:31,428 - INFO - Quick proxy setup - testing first 50 proxies...
+2025-07-28 03:52:35,266 - WARNING - Found few healthy proxies, adding untested ones...
+2025-07-28 03:52:35,269 - INFO - Quick setup complete: 10 proxies ready
+2025-07-28 03:52:35,273 - INFO - Starting view generation: 2 views for https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 03:52:35,276 - INFO - Getting initial view count...
+2025-07-28 03:52:36,266 - INFO - Initial view count: 19
+2025-07-28 03:52:36,269 - INFO - Estimated completion time: 0.1 hours
+2025-07-28 03:52:36,271 - INFO - Using 1 concurrent threads
+2025-07-28 03:52:36,277 - INFO - ====== WebDriver manager ======
+2025-07-28 03:52:37,063 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-28 04:03:16,597 - INFO - Fetching proxies from: https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 04:03:18,481 - INFO - Loaded 0 proxies from https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&format=textplain
+2025-07-28 04:03:18,481 - INFO - Fetching proxies from: https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 04:03:21,414 - INFO - Loaded 38047 proxies from https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+2025-07-28 04:03:21,474 - INFO - Limited to 500 proxies for faster startup
+2025-07-28 04:03:21,474 - INFO - Loaded 500 total unique proxies (38047 free, -37547 owned)
+2025-07-28 04:03:21,507 - INFO - Quick proxy setup - testing first 50 proxies...
+2025-07-28 04:03:25,700 - WARNING - Found few healthy proxies, adding untested ones...
+2025-07-28 04:03:25,701 - INFO - Quick setup complete: 10 proxies ready
+2025-07-28 04:03:25,703 - INFO - Starting view generation: 2 views for https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 04:03:25,704 - INFO - Getting initial view count...
+2025-07-28 04:03:33,803 - INFO - Initial view count: 19
+2025-07-28 04:03:33,804 - INFO - Estimated completion time: 0.1 hours
+2025-07-28 04:03:33,804 - INFO - Using 1 concurrent threads
