@@ -1,0 +1,79 @@
+2025-07-28 16:30:54,741 - INFO - 🔍 Verifying simple system requirements...
+2025-07-28 16:30:54,779 - INFO - ✅ TOR is installed and ready
+2025-07-28 16:30:55,002 - INFO - ✅ Google Chrome is installed
+2025-07-28 16:30:55,002 - INFO - ✅ All simple requirements verified
+2025-07-28 16:31:13,118 - INFO - 🌐 Opening consent browser (no TOR for this step)...
+2025-07-28 16:31:37,123 - INFO - ✅ Manual consent acceptance completed
+2025-07-28 16:31:37,123 - INFO - 👤 SIMPLE MANUAL YOUTUBE VIEW GENERATOR STARTED
+2025-07-28 16:31:37,124 - INFO - 📺 Target URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 16:31:37,124 - INFO - 🎯 Target views: 10
+2025-07-28 16:31:37,124 - INFO - 🪟 Max concurrent: 3
+2025-07-28 16:31:37,125 - INFO - ⏱️ Watch time: 60s per view
+2025-07-28 16:31:37,125 - INFO - 🧅 TOR instances: 5
+2025-07-28 16:31:37,125 - INFO - 👤 Manual consent: ACCEPTED
+2025-07-28 16:31:37,126 - INFO - 📋 Session ID: 20250728_163054
+2025-07-28 16:31:37,126 - INFO - ⏰ Estimated completion: 4.2 minutes
+2025-07-28 16:31:37,127 - INFO - 👤 Browser simple_0001: Starting simple manual view...
+2025-07-28 16:31:37,128 - INFO - 🔄 Starting simple TOR instance 3 (port 9053)...
+2025-07-28 16:31:39,456 - INFO - 👤 Browser simple_0002: Starting simple manual view...
+2025-07-28 16:31:39,457 - INFO - 🔄 Starting simple TOR instance 2 (port 9052)...
+2025-07-28 16:31:42,866 - INFO - 👤 Browser simple_0003: Starting simple manual view...
+2025-07-28 16:31:42,868 - INFO - 🔄 Starting simple TOR instance 0 (port 9050)...
+2025-07-28 16:31:47,795 - INFO - 📊 Submitted 5/10 simple browsers to queue
+2025-07-28 16:31:49,745 - ERROR - ❌ Simple TOR instance 3 failed verification
+2025-07-28 16:31:49,745 - ERROR - ❌ Simple browser simple_0001 failed: Failed to establish TOR connection
+2025-07-28 16:31:49,746 - INFO - 👤 Browser simple_0004: Starting simple manual view...
+2025-07-28 16:31:49,747 - INFO - 🔄 Starting simple TOR instance 3 (port 9053)...
+2025-07-28 16:31:50,591 - ERROR - ❌ Simple TOR instance 2 failed verification
+2025-07-28 16:31:50,591 - ERROR - ❌ Simple browser simple_0002 failed: Failed to establish TOR connection
+2025-07-28 16:31:50,592 - INFO - 👤 Browser simple_0005: Starting simple manual view...
+2025-07-28 16:31:50,593 - INFO - 🔄 Starting simple TOR instance 3 (port 9053)...
+2025-07-28 16:31:52,820 - ERROR - ❌ Simple TOR instance 0 failed verification
+2025-07-28 16:31:52,821 - ERROR - ❌ Simple browser simple_0003 failed: Failed to establish TOR connection
+2025-07-28 16:31:52,821 - INFO - 👤 Browser simple_0006: Starting simple manual view...
+2025-07-28 16:31:52,823 - INFO - 🔄 Starting simple TOR instance 0 (port 9050)...
+2025-07-28 16:32:00,546 - ERROR - ❌ Simple TOR instance 3 failed verification
+2025-07-28 16:32:00,547 - ERROR - ❌ Simple browser simple_0005 failed: Failed to establish TOR connection
+2025-07-28 16:32:00,547 - INFO - 👤 Browser simple_0007: Starting simple manual view...
+2025-07-28 16:32:00,549 - INFO - 🔄 Starting simple TOR instance 1 (port 9051)...
+2025-07-28 16:32:02,359 - ERROR - ❌ Simple TOR instance 3 failed verification
+2025-07-28 16:32:02,359 - ERROR - ❌ Simple browser simple_0004 failed: Failed to establish TOR connection
+2025-07-28 16:32:02,360 - INFO - 👤 Browser simple_0008: Starting simple manual view...
+2025-07-28 16:32:02,360 - INFO - 🔄 Starting simple TOR instance 3 (port 9053)...
+2025-07-28 16:32:05,893 - ERROR - ❌ Simple TOR instance 0 failed verification
+2025-07-28 16:32:05,894 - ERROR - ❌ Simple browser simple_0006 failed: Failed to establish TOR connection
+2025-07-28 16:32:05,894 - INFO - 👤 Browser simple_0009: Starting simple manual view...
+2025-07-28 16:32:05,895 - INFO - 🔄 Starting simple TOR instance 4 (port 9054)...
+2025-07-28 16:32:06,746 - INFO - 📊 Submitted 10/10 simple browsers to queue
+2025-07-28 16:32:09,989 - INFO - ✅ All 10 simple browsers submitted to queue!
+2025-07-28 16:32:09,990 - INFO - 📊 SIMPLE PROGRESS REPORT:
+2025-07-28 16:32:09,990 - INFO -    ✅ Completed: 3/10 (30.0%)
+2025-07-28 16:32:09,991 - INFO -    🪟 Active browsers: 0
+2025-07-28 16:32:09,991 - INFO -    🧅 TOR instances: 0
+2025-07-28 16:32:09,991 - INFO -    ⚡ Rate: 5.5 views/minute
+2025-07-28 16:32:09,992 - INFO -    ⏱️ Elapsed: 0.5 minutes
+2025-07-28 16:32:09,992 - INFO - 📊 SIMPLE PROGRESS REPORT:
+2025-07-28 16:32:09,992 - INFO -    ✅ Completed: 6/10 (60.0%)
+2025-07-28 16:32:09,993 - INFO -    🪟 Active browsers: 0
+2025-07-28 16:32:09,993 - INFO -    🧅 TOR instances: 0
+2025-07-28 16:32:09,993 - INFO -    ⚡ Rate: 11.0 views/minute
+2025-07-28 16:32:09,993 - INFO -    ⏱️ Elapsed: 0.5 minutes
+2025-07-28 16:32:13,195 - ERROR - ❌ Simple TOR instance 1 failed verification
+2025-07-28 16:32:13,195 - ERROR - ❌ Simple browser simple_0007 failed: Failed to establish TOR connection
+2025-07-28 16:32:13,196 - INFO - 👤 Browser simple_0010: Starting simple manual view...
+2025-07-28 16:32:13,197 - INFO - 🔄 Starting simple TOR instance 3 (port 9053)...
+2025-07-28 16:32:13,800 - ERROR - ❌ Simple TOR instance 3 failed verification
+2025-07-28 16:32:13,800 - ERROR - ❌ Simple browser simple_0008 failed: Failed to establish TOR connection
+2025-07-28 16:32:23,584 - ERROR - ❌ Simple TOR instance 3 failed verification
+2025-07-28 16:32:23,584 - ERROR - ❌ Simple browser simple_0010 failed: Failed to establish TOR connection
+2025-07-28 16:32:23,585 - INFO - 📊 SIMPLE PROGRESS REPORT:
+2025-07-28 16:32:23,585 - INFO -    ✅ Completed: 9/10 (90.0%)
+2025-07-28 16:32:23,586 - INFO -    🪟 Active browsers: 0
+2025-07-28 16:32:23,586 - INFO -    🧅 TOR instances: 0
+2025-07-28 16:32:23,586 - INFO -    ⚡ Rate: 11.6 views/minute
+2025-07-28 16:32:23,586 - INFO -    ⏱️ Elapsed: 0.8 minutes
+2025-07-28 16:32:30,323 - WARNING - Simple TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x710c576bb230>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 16:32:30,324 - ERROR - ❌ Simple TOR instance 4 failed verification
+2025-07-28 16:32:30,324 - ERROR - ❌ Simple browser simple_0009 failed: Failed to establish TOR connection
+2025-07-28 16:32:30,326 - INFO - 🧹 Starting simple production cleanup...
+2025-07-28 16:32:30,370 - INFO - ✅ Simple production cleanup complete

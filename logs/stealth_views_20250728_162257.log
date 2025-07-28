@@ -1,0 +1,118 @@
+2025-07-28 16:22:57,386 - INFO - 🔍 Verifying stealth system requirements...
+2025-07-28 16:22:57,402 - INFO - ✅ TOR is installed and ready
+2025-07-28 16:22:57,546 - INFO - ✅ Google Chrome is installed
+2025-07-28 16:22:57,546 - INFO - ✅ All stealth requirements verified
+2025-07-28 16:22:57,546 - INFO - 🥷 STEALTH PRODUCTION YOUTUBE VIEW GENERATOR STARTED
+2025-07-28 16:22:57,546 - INFO - 📺 Target URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 16:22:57,546 - INFO - 🎯 Target views: 10
+2025-07-28 16:22:57,546 - INFO - 🪟 Max concurrent: 3
+2025-07-28 16:22:57,546 - INFO - ⏱️ Watch time: 60s per view
+2025-07-28 16:22:57,547 - INFO - 🧅 TOR instances: 5
+2025-07-28 16:22:57,547 - INFO - 🥷 Stealth mode: ENABLED (no consent clicking)
+2025-07-28 16:22:57,547 - INFO - 📋 Session ID: 20250728_162257
+2025-07-28 16:22:57,547 - INFO - ⏰ Estimated completion: 4.2 minutes
+2025-07-28 16:22:57,547 - INFO - 🥷 Browser stealth_0001: Starting stealth view...
+2025-07-28 16:22:57,549 - INFO - 🔄 Starting stealth TOR instance 1 (port 9051)...
+2025-07-28 16:23:01,910 - INFO - 🥷 Browser stealth_0002: Starting stealth view...
+2025-07-28 16:23:01,911 - INFO - 🔄 Starting stealth TOR instance 1 (port 9051)...
+2025-07-28 16:23:06,756 - INFO - 🥷 Browser stealth_0003: Starting stealth view...
+2025-07-28 16:23:06,759 - INFO - 🔄 Starting stealth TOR instance 4 (port 9054)...
+2025-07-28 16:23:13,801 - INFO - 📊 Submitted 5/10 stealth browsers to queue
+2025-07-28 16:23:23,934 - WARNING - Stealth TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x7c5a4d282810>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 16:23:23,934 - ERROR - ❌ Stealth TOR instance 1 failed verification
+2025-07-28 16:23:23,934 - ERROR - ❌ Stealth browser stealth_0001 failed: Failed to establish TOR connection
+2025-07-28 16:23:23,934 - INFO - 🥷 Browser stealth_0004: Starting stealth view...
+2025-07-28 16:23:23,938 - INFO - 🔄 Starting stealth TOR instance 3 (port 9053)...
+2025-07-28 16:23:23,973 - WARNING - Stealth TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7c5a4d2831d0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2025-07-28 16:23:23,975 - ERROR - ❌ Stealth TOR instance 1 failed verification
+2025-07-28 16:23:23,976 - ERROR - ❌ Stealth browser stealth_0002 failed: Failed to establish TOR connection
+2025-07-28 16:23:23,977 - INFO - 🥷 Browser stealth_0005: Starting stealth view...
+2025-07-28 16:23:23,981 - INFO - 🔄 Starting stealth TOR instance 0 (port 9050)...
+2025-07-28 16:23:30,072 - WARNING - Stealth TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x7c5a4d283a10>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 16:23:30,073 - ERROR - ❌ Stealth TOR instance 4 failed verification
+2025-07-28 16:23:30,074 - ERROR - ❌ Stealth browser stealth_0003 failed: Failed to establish TOR connection
+2025-07-28 16:23:30,074 - INFO - 🥷 Browser stealth_0006: Starting stealth view...
+2025-07-28 16:23:30,076 - INFO - 🔄 Starting stealth TOR instance 2 (port 9052)...
+2025-07-28 16:23:33,363 - INFO - 📊 Submitted 10/10 stealth browsers to queue
+2025-07-28 16:23:35,417 - INFO - 🌐 Stealth TOR IP verified: 185.220.101.40
+2025-07-28 16:23:35,418 - INFO - ✅ Stealth TOR instance 0 ready on port 9050
+2025-07-28 16:23:35,427 - INFO - ✅ Stealth browser stealth_0005 launched (PID: 284696)
+2025-07-28 16:23:35,428 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 16:23:35,429 - INFO - 🥷 User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0...
+2025-07-28 16:23:35,430 - INFO - 📺 Loading YouTube directly (bypassing consent) - 14.0s...
+2025-07-28 16:23:36,625 - INFO - ✅ All 10 stealth browsers submitted to queue!
+2025-07-28 16:23:36,626 - INFO - 📊 STEALTH PROGRESS REPORT:
+2025-07-28 16:23:36,627 - INFO -    ✅ Completed: 3/10 (30.0%)
+2025-07-28 16:23:36,627 - INFO -    🪟 Active browsers: 1
+2025-07-28 16:23:36,627 - INFO -    🧅 TOR instances: 1
+2025-07-28 16:23:36,627 - INFO -    ⚡ Rate: 4.6 views/minute
+2025-07-28 16:23:36,627 - INFO -    ⏱️ Elapsed: 0.7 minutes
+2025-07-28 16:23:37,557 - INFO - 🌐 Stealth TOR IP verified: 205.185.116.34
+2025-07-28 16:23:37,558 - INFO - ✅ Stealth TOR instance 3 ready on port 9053
+2025-07-28 16:23:37,567 - INFO - ✅ Stealth browser stealth_0004 launched (PID: 285060)
+2025-07-28 16:23:37,567 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 16:23:37,572 - INFO - 🥷 User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-07-28 16:23:37,575 - INFO - 📺 Loading YouTube directly (bypassing consent) - 12.2s...
+2025-07-28 16:23:49,460 - INFO - 🎬 Stealth video loaded! Browser stealth_0005 watching for 60s
+2025-07-28 16:23:49,461 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:23:49,806 - INFO - 🎬 Stealth video loaded! Browser stealth_0004 watching for 60s
+2025-07-28 16:23:49,806 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:23:52,539 - INFO - 🌐 Stealth TOR IP verified: 192.42.116.191
+2025-07-28 16:23:52,541 - INFO - ✅ Stealth TOR instance 2 ready on port 9052
+2025-07-28 16:23:52,552 - INFO - ✅ Stealth browser stealth_0006 launched (PID: 285623)
+2025-07-28 16:23:52,553 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 16:23:52,554 - INFO - 🥷 User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-07-28 16:23:52,556 - INFO - 📺 Loading YouTube directly (bypassing consent) - 11.3s...
+2025-07-28 16:24:03,811 - INFO - 🎬 Stealth video loaded! Browser stealth_0006 watching for 60s
+2025-07-28 16:24:03,811 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:24:46,754 - INFO - ✅ Stealth browser stealth_0004 completed 56.9s watch!
+2025-07-28 16:24:46,754 - INFO - 📊 Progress: 1 completed, 2 active
+2025-07-28 16:24:46,755 - INFO - 🔪 Surgically closing stealth browser stealth_0004...
+2025-07-28 16:24:48,757 - INFO - ✅ Stealth browser stealth_0004 closed gracefully
+2025-07-28 16:24:48,796 - INFO - 🥷 Browser stealth_0007: Starting stealth view...
+2025-07-28 16:24:48,805 - INFO - ✅ Stealth browser stealth_0007 launched (PID: 287217)
+2025-07-28 16:24:48,806 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 16:24:48,806 - INFO - 🥷 User agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+2025-07-28 16:24:48,806 - INFO - 📺 Loading YouTube directly (bypassing consent) - 8.9s...
+2025-07-28 16:24:57,657 - INFO - 🎬 Stealth video loaded! Browser stealth_0007 watching for 60s
+2025-07-28 16:24:57,664 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:24:59,374 - INFO - ✅ Stealth browser stealth_0005 completed 69.9s watch!
+2025-07-28 16:24:59,374 - INFO - 📊 Progress: 2 completed, 2 active
+2025-07-28 16:24:59,375 - INFO - 🔪 Surgically closing stealth browser stealth_0005...
+2025-07-28 16:25:01,380 - INFO - ✅ Stealth browser stealth_0005 closed gracefully
+2025-07-28 16:25:01,645 - INFO - 🥷 Browser stealth_0008: Starting stealth view...
+2025-07-28 16:25:01,682 - INFO - 🔄 Starting stealth TOR instance 1 (port 9051)...
+2025-07-28 16:25:12,606 - INFO - ✅ Stealth browser stealth_0006 completed 68.8s watch!
+2025-07-28 16:25:12,607 - INFO - 📊 Progress: 3 completed, 1 active
+2025-07-28 16:25:12,609 - INFO - 🔪 Surgically closing stealth browser stealth_0006...
+2025-07-28 16:25:14,629 - INFO - ✅ Stealth browser stealth_0006 closed gracefully
+2025-07-28 16:25:14,678 - INFO - 🥷 Browser stealth_0009: Starting stealth view...
+2025-07-28 16:25:14,679 - INFO - 📊 STEALTH PROGRESS REPORT:
+2025-07-28 16:25:14,680 - INFO -    ✅ Completed: 6/10 (60.0%)
+2025-07-28 16:25:14,681 - INFO -    🪟 Active browsers: 1
+2025-07-28 16:25:14,683 - INFO - 🔄 Starting stealth TOR instance 4 (port 9054)...
+2025-07-28 16:25:14,683 - INFO -    🧅 TOR instances: 3
+2025-07-28 16:25:14,683 - INFO -    ⚡ Rate: 2.6 views/minute
+2025-07-28 16:25:14,684 - INFO -    ⏱️ Elapsed: 2.3 minutes
+2025-07-28 16:25:21,839 - INFO - 🌐 Stealth TOR IP verified: 185.220.100.243
+2025-07-28 16:25:21,846 - INFO - ✅ Stealth TOR instance 1 ready on port 9051
+2025-07-28 16:25:21,885 - INFO - ✅ Stealth browser stealth_0008 launched (PID: 288587)
+2025-07-28 16:25:21,885 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 16:25:21,886 - INFO - 🥷 User agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...
+2025-07-28 16:25:21,889 - INFO - 📺 Loading YouTube directly (bypassing consent) - 10.7s...
+2025-07-28 16:25:32,617 - INFO - 🎬 Stealth video loaded! Browser stealth_0008 watching for 60s
+2025-07-28 16:25:32,618 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:25:39,742 - WARNING - Stealth TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x7c5a4d2acdd0>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 16:25:39,742 - ERROR - ❌ Stealth TOR instance 4 failed verification
+2025-07-28 16:25:39,743 - ERROR - ❌ Stealth browser stealth_0009 failed: Failed to establish TOR connection
+2025-07-28 16:25:39,743 - INFO - 🥷 Browser stealth_0010: Starting stealth view...
+2025-07-28 16:25:39,749 - INFO - ✅ Stealth browser stealth_0010 launched (PID: 289297)
+2025-07-28 16:25:39,750 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 16:25:39,750 - INFO - 🥷 User agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+2025-07-28 16:25:39,750 - INFO - 📺 Loading YouTube directly (bypassing consent) - 14.6s...
+2025-07-28 16:25:54,361 - INFO - 🎬 Stealth video loaded! Browser stealth_0010 watching for 60s
+2025-07-28 16:25:54,368 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:26:06,623 - INFO - ✅ Stealth browser stealth_0007 completed 69.0s watch!
+2025-07-28 16:26:06,623 - INFO - 📊 Progress: 4 completed, 2 active
+2025-07-28 16:26:06,623 - INFO - 🔪 Surgically closing stealth browser stealth_0007...
+2025-07-28 16:26:08,627 - INFO - ✅ Stealth browser stealth_0007 closed gracefully

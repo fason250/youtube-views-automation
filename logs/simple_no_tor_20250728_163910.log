@@ -1,0 +1,83 @@
+2025-07-28 16:39:10,998 - INFO - 🔍 Verifying simple system requirements...
+2025-07-28 16:39:11,444 - INFO - ✅ Google Chrome is installed
+2025-07-28 16:39:11,445 - INFO - ✅ All simple requirements verified
+2025-07-28 16:39:15,390 - INFO - 🌐 Opening consent browser (regular internet)...
+2025-07-28 16:40:23,411 - INFO - ✅ Manual consent acceptance completed
+2025-07-28 16:40:23,411 - INFO - 👤 SIMPLE NO-TOR YOUTUBE VIEW GENERATOR STARTED
+2025-07-28 16:40:23,412 - INFO - 📺 Target URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 16:40:23,412 - INFO - 🎯 Target views: 5
+2025-07-28 16:40:23,412 - INFO - 🪟 Max concurrent: 2
+2025-07-28 16:40:23,413 - INFO - ⏱️ Watch time: 60s per view
+2025-07-28 16:40:23,413 - INFO - 🌐 Network: Regular internet (no TOR)
+2025-07-28 16:40:23,413 - INFO - 👤 Manual consent: ACCEPTED
+2025-07-28 16:40:23,414 - INFO - 📋 Session ID: 20250728_163910
+2025-07-28 16:40:23,414 - INFO - ⏰ Estimated completion: 3.1 minutes
+2025-07-28 16:40:23,415 - INFO - 👤 Browser simple_0001: Starting simple view...
+2025-07-28 16:40:23,560 - INFO - ✅ Simple browser simple_0001 launched (PID: 305020)
+2025-07-28 16:40:23,561 - INFO - 🌐 Using regular internet connection
+2025-07-28 16:40:23,561 - INFO - 👤 Using manual consent session
+2025-07-28 16:40:23,561 - INFO - 🥷 User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-07-28 16:40:23,561 - INFO - 📺 Loading YouTube with manual consent - 12.4s...
+2025-07-28 16:40:25,886 - INFO - 👤 Browser simple_0002: Starting simple view...
+2025-07-28 16:40:26,087 - INFO - ✅ Simple browser simple_0002 launched (PID: 305188)
+2025-07-28 16:40:26,088 - INFO - 🌐 Using regular internet connection
+2025-07-28 16:40:26,088 - INFO - 👤 Using manual consent session
+2025-07-28 16:40:26,088 - INFO - 🥷 User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-07-28 16:40:26,089 - INFO - 📺 Loading YouTube with manual consent - 8.5s...
+2025-07-28 16:40:33,374 - INFO - 📊 Submitted 5/5 simple browsers to queue
+2025-07-28 16:40:34,583 - INFO - 🎬 Simple video loaded! Browser simple_0002 watching for 60s
+2025-07-28 16:40:34,585 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:40:35,999 - INFO - 🎬 Simple video loaded! Browser simple_0001 watching for 60s
+2025-07-28 16:40:35,999 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:40:36,680 - INFO - ✅ All 5 simple browsers submitted to queue!
+2025-07-28 16:41:34,070 - INFO - ✅ Simple browser simple_0001 completed 58.1s watch!
+2025-07-28 16:41:34,070 - INFO - 📊 Progress: 1 completed, 1 active
+2025-07-28 16:41:34,071 - INFO - 🔪 Surgically closing simple browser simple_0001...
+2025-07-28 16:41:36,072 - INFO - ✅ Simple browser simple_0001 closed gracefully
+2025-07-28 16:41:36,155 - INFO - 👤 Browser simple_0003: Starting simple view...
+2025-07-28 16:41:36,168 - INFO - ✅ Simple browser simple_0002 completed 61.6s watch!
+2025-07-28 16:41:36,169 - INFO - 📊 Progress: 2 completed, 0 active
+2025-07-28 16:41:36,170 - INFO - 🔪 Surgically closing simple browser simple_0002...
+2025-07-28 16:41:36,310 - INFO - ✅ Simple browser simple_0003 launched (PID: 306041)
+2025-07-28 16:41:36,311 - INFO - 🌐 Using regular internet connection
+2025-07-28 16:41:36,311 - INFO - 👤 Using manual consent session
+2025-07-28 16:41:36,311 - INFO - 🥷 User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-07-28 16:41:36,311 - INFO - 📺 Loading YouTube with manual consent - 14.5s...
+2025-07-28 16:41:38,174 - INFO - ✅ Simple browser simple_0002 closed gracefully
+2025-07-28 16:41:38,292 - INFO - 👤 Browser simple_0004: Starting simple view...
+2025-07-28 16:41:38,430 - INFO - ✅ Simple browser simple_0004 launched (PID: 306163)
+2025-07-28 16:41:38,431 - INFO - 🌐 Using regular internet connection
+2025-07-28 16:41:38,431 - INFO - 👤 Using manual consent session
+2025-07-28 16:41:38,431 - INFO - 🥷 User agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+2025-07-28 16:41:38,431 - INFO - 📺 Loading YouTube with manual consent - 8.5s...
+2025-07-28 16:41:46,967 - INFO - 🎬 Simple video loaded! Browser simple_0004 watching for 60s
+2025-07-28 16:41:46,968 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:41:50,791 - INFO - 🎬 Simple video loaded! Browser simple_0003 watching for 60s
+2025-07-28 16:41:50,791 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:42:44,084 - INFO - ✅ Simple browser simple_0004 completed 57.1s watch!
+2025-07-28 16:42:44,085 - INFO - 📊 Progress: 3 completed, 1 active
+2025-07-28 16:42:44,085 - INFO - 🔪 Surgically closing simple browser simple_0004...
+2025-07-28 16:42:46,087 - INFO - ✅ Simple browser simple_0004 closed gracefully
+2025-07-28 16:42:46,158 - INFO - 👤 Browser simple_0005: Starting simple view...
+2025-07-28 16:42:46,159 - INFO - 📊 SIMPLE PROGRESS REPORT:
+2025-07-28 16:42:46,161 - INFO -    ✅ Completed: 3/5 (60.0%)
+2025-07-28 16:42:46,161 - INFO -    🪟 Active browsers: 1
+2025-07-28 16:42:46,161 - INFO -    ⚡ Rate: 1.3 views/minute
+2025-07-28 16:42:46,161 - INFO -    ⏱️ Elapsed: 2.4 minutes
+2025-07-28 16:42:46,336 - INFO - ✅ Simple browser simple_0005 launched (PID: 307253)
+2025-07-28 16:42:46,336 - INFO - 🌐 Using regular internet connection
+2025-07-28 16:42:46,336 - INFO - 👤 Using manual consent session
+2025-07-28 16:42:46,336 - INFO - 🥷 User agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...
+2025-07-28 16:42:46,336 - INFO - 📺 Loading YouTube with manual consent - 11.2s...
+2025-07-28 16:42:54,585 - INFO - ✅ Simple browser simple_0003 completed 63.8s watch!
+2025-07-28 16:42:54,585 - INFO - 📊 Progress: 4 completed, 1 active
+2025-07-28 16:42:54,586 - INFO - 🔪 Surgically closing simple browser simple_0003...
+2025-07-28 16:42:56,592 - INFO - ✅ Simple browser simple_0003 closed gracefully
+2025-07-28 16:42:57,566 - INFO - 🎬 Simple video loaded! Browser simple_0005 watching for 60s
+2025-07-28 16:42:57,566 - INFO - 🔊 Audio should be playing naturally!
+2025-07-28 16:44:03,338 - INFO - ✅ Simple browser simple_0005 completed 65.8s watch!
+2025-07-28 16:44:03,338 - INFO - 📊 Progress: 5 completed, 0 active
+2025-07-28 16:44:03,338 - INFO - 🔪 Surgically closing simple browser simple_0005...
+2025-07-28 16:44:05,339 - INFO - ✅ Simple browser simple_0005 closed gracefully
+2025-07-28 16:44:05,404 - INFO - 🧹 Starting simple production cleanup...
+2025-07-28 16:44:05,527 - INFO - ✅ Simple production cleanup complete
