@@ -1,0 +1,75 @@
+2025-07-28 15:55:02,413 - INFO - 🔍 Verifying system requirements...
+2025-07-28 15:55:02,433 - INFO - ✅ TOR is installed and ready
+2025-07-28 15:55:02,776 - INFO - ✅ Google Chrome is installed
+2025-07-28 15:55:02,784 - INFO - ✅ xdotool is installed
+2025-07-28 15:55:02,785 - INFO - ✅ All requirements verified
+2025-07-28 15:55:02,785 - INFO - 🚀 FINAL PRODUCTION YOUTUBE VIEW GENERATOR STARTED
+2025-07-28 15:55:02,785 - INFO - 📺 Target URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 15:55:02,785 - INFO - 🎯 Target views: 5
+2025-07-28 15:55:02,787 - INFO - 🪟 Max concurrent: 2
+2025-07-28 15:55:02,787 - INFO - ⏱️ Watch time: 60s per view
+2025-07-28 15:55:02,787 - INFO - 🧅 TOR instances: 5
+2025-07-28 15:55:02,787 - INFO - 🍪 Consent handling: ENABLED
+2025-07-28 15:55:02,787 - INFO - 📋 Session ID: 20250728_155502
+2025-07-28 15:55:02,787 - INFO - ⏰ Estimated completion: 3.3 minutes
+2025-07-28 15:55:02,790 - INFO - 🎯 Browser final_0001: Starting final production view...
+2025-07-28 15:55:02,797 - INFO - 🔄 Starting TOR instance 1 (port 9051)...
+2025-07-28 15:55:05,611 - INFO - 🎯 Browser final_0002: Starting final production view...
+2025-07-28 15:55:05,615 - INFO - 🔄 Starting TOR instance 2 (port 9052)...
+2025-07-28 15:55:15,317 - INFO - 📊 Submitted 5/5 browsers to queue
+2025-07-28 15:55:18,343 - INFO - ✅ All 5 browsers submitted to final production queue!
+2025-07-28 15:55:27,502 - WARNING - TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x74f9cf809340>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 15:55:27,503 - ERROR - ❌ TOR instance 1 failed verification
+2025-07-28 15:55:27,503 - ERROR - ❌ Browser final_0001 failed: Failed to establish TOR connection
+2025-07-28 15:55:27,503 - INFO - 🎯 Browser final_0003: Starting final production view...
+2025-07-28 15:55:27,508 - INFO - 🔄 Starting TOR instance 2 (port 9052)...
+2025-07-28 15:55:29,101 - WARNING - TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x74f9cef3c830>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 15:55:29,101 - ERROR - ❌ TOR instance 2 failed verification
+2025-07-28 15:55:29,101 - ERROR - ❌ Browser final_0002 failed: Failed to establish TOR connection
+2025-07-28 15:55:29,101 - INFO - 🎯 Browser final_0004: Starting final production view...
+2025-07-28 15:55:29,102 - INFO - 🔄 Starting TOR instance 3 (port 9053)...
+2025-07-28 15:55:37,361 - WARNING - TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x74f9cef3d0a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-07-28 15:55:37,362 - ERROR - ❌ TOR instance 2 failed verification
+2025-07-28 15:55:37,362 - ERROR - ❌ Browser final_0003 failed: Failed to establish TOR connection
+2025-07-28 15:55:37,362 - INFO - 🎯 Browser final_0005: Starting final production view...
+2025-07-28 15:55:37,364 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 15:55:37,364 - INFO -    ✅ Completed: 3/5 (60.0%)
+2025-07-28 15:55:37,365 - INFO -    🪟 Active browsers: 0
+2025-07-28 15:55:37,365 - INFO -    🧅 TOR instances: 0
+2025-07-28 15:55:37,365 - INFO - 🔄 Starting TOR instance 3 (port 9053)...
+2025-07-28 15:55:37,365 - INFO -    ⚡ Rate: 5.2 views/minute
+2025-07-28 15:55:37,366 - INFO -    ⏱️ Elapsed: 0.6 minutes
+2025-07-28 15:55:41,867 - INFO - 🌐 TOR IP verified: 45.90.185.113
+2025-07-28 15:55:41,867 - INFO - ✅ TOR instance 3 ready on port 9053
+2025-07-28 15:55:41,875 - INFO - ✅ Browser final_0004 launched (PID: 223886)
+2025-07-28 15:55:41,876 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 15:55:41,878 - INFO - 📺 Loading YouTube page through TOR...
+2025-07-28 15:55:47,261 - INFO - 🍪 Handling YouTube consent page...
+2025-07-28 15:55:54,345 - INFO - 🌐 TOR IP verified: 45.90.185.113
+2025-07-28 15:55:54,347 - INFO - ✅ TOR instance 3 ready on port 9053
+2025-07-28 15:55:54,359 - INFO - ✅ Browser final_0005 launched (PID: 224274)
+2025-07-28 15:55:54,366 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 15:55:54,366 - INFO - 📺 Loading YouTube page through TOR...
+2025-07-28 15:55:55,282 - WARNING - ⚠️ xdotool consent handling failed: Command '['xdotool', 'search', '--pid', '223886', '--name', 'Google Chrome', 'windowactivate', '--sync']' timed out after 4.999947011001495 seconds
+2025-07-28 15:55:56,542 - INFO - ✅ Keyboard consent handling attempted
+2025-07-28 15:55:56,542 - INFO - 🎬 Waiting for video loading (8.4s)...
+2025-07-28 15:56:02,067 - INFO - 🍪 Handling YouTube consent page...
+2025-07-28 15:56:04,936 - INFO - 🎬 Video loaded! Browser final_0004 watching for 60s
+2025-07-28 15:56:04,941 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 15:56:08,985 - INFO - ✅ Consent clicks attempted
+2025-07-28 15:56:10,155 - INFO - ✅ Keyboard consent handling attempted
+2025-07-28 15:56:10,156 - INFO - 🎬 Waiting for video loading (8.0s)...
+2025-07-28 15:56:18,174 - INFO - 🎬 Video loaded! Browser final_0005 watching for 60s
+2025-07-28 15:56:18,177 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 15:57:04,941 - INFO - ✅ Browser final_0004 completed 60s watch!
+2025-07-28 15:57:04,942 - INFO - 📊 Progress: 1 completed, 1 active
+2025-07-28 15:57:04,942 - INFO - 🔪 Surgically closing browser final_0004...
+2025-07-28 15:57:06,944 - INFO - ✅ Browser final_0004 closed gracefully
+2025-07-28 15:57:18,182 - INFO - ✅ Browser final_0005 completed 60s watch!
+2025-07-28 15:57:18,182 - INFO - 📊 Progress: 2 completed, 0 active
+2025-07-28 15:57:18,183 - INFO - 🔪 Surgically closing browser final_0005...
+2025-07-28 15:57:20,185 - INFO - ✅ Browser final_0005 closed gracefully
+2025-07-28 15:57:20,279 - INFO - 📄 Final report saved to logs/
+2025-07-28 15:57:20,280 - INFO - 🧹 Starting final production cleanup...
+2025-07-28 15:57:21,286 - INFO - ✅ Cleaned up TOR instance 3
+2025-07-28 15:57:21,286 - INFO - ✅ Final production cleanup complete

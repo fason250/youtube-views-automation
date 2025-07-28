@@ -1,0 +1,87 @@
+2025-07-28 15:50:32,152 - INFO - 🔍 Verifying system requirements...
+2025-07-28 15:50:32,170 - INFO - ✅ TOR is installed and ready
+2025-07-28 15:50:32,469 - INFO - ✅ Google Chrome is installed
+2025-07-28 15:50:32,469 - INFO - ✅ All requirements verified
+2025-07-28 15:50:32,469 - INFO - 🚀 PRODUCTION YOUTUBE VIEW GENERATOR STARTED
+2025-07-28 15:50:32,469 - INFO - 📺 Target URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 15:50:32,469 - INFO - 🎯 Target views: 5
+2025-07-28 15:50:32,469 - INFO - 🪟 Max concurrent: 2
+2025-07-28 15:50:32,470 - INFO - ⏱️ Watch time: 60s per view
+2025-07-28 15:50:32,470 - INFO - 🧅 TOR instances: 5
+2025-07-28 15:50:32,470 - INFO - 📋 Session ID: 20250728_155032
+2025-07-28 15:50:32,470 - INFO - ⏰ Estimated completion: 3.1 minutes
+2025-07-28 15:50:32,479 - INFO - 🎯 Browser prod_0001: Starting production view...
+2025-07-28 15:50:32,490 - INFO - 🔄 Starting TOR instance 0 (port 9050)...
+2025-07-28 15:50:35,356 - INFO - 🎯 Browser prod_0002: Starting production view...
+2025-07-28 15:50:35,358 - INFO - 🔄 Starting TOR instance 4 (port 9054)...
+2025-07-28 15:50:46,152 - INFO - 🌐 TOR IP verified: 45.83.104.137
+2025-07-28 15:50:46,153 - INFO - ✅ TOR instance 0 ready on port 9050
+2025-07-28 15:50:46,163 - INFO - ✅ Browser prod_0001 launched (PID: 219924)
+2025-07-28 15:50:46,163 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 15:50:46,164 - INFO - 📺 Loading YouTube page through TOR...
+2025-07-28 15:50:48,182 - INFO - ✅ All 5 browsers submitted to production queue!
+2025-07-28 15:50:49,988 - INFO - 🍪 Auto-clicking consent 'Accept all' button...
+2025-07-28 15:50:51,991 - WARNING - ⚠️ Could not auto-click consent: [Errno 2] No such file or directory: 'xdotool'
+2025-07-28 15:50:51,991 - INFO - 🎬 Waiting for video loading (11.0s)...
+2025-07-28 15:51:02,092 - WARNING - TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x76baadf76b10>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 15:51:02,094 - ERROR - ❌ TOR instance 4 failed verification
+2025-07-28 15:51:02,095 - ERROR - ❌ Browser prod_0002 failed: Failed to establish TOR connection
+2025-07-28 15:51:02,096 - INFO - 🎯 Browser prod_0003: Starting production view...
+2025-07-28 15:51:02,116 - INFO - ✅ Browser prod_0003 launched (PID: 220426)
+2025-07-28 15:51:02,119 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 15:51:02,120 - INFO - 📺 Loading YouTube page through TOR...
+2025-07-28 15:51:02,966 - INFO - 🎬 Video loaded! Browser prod_0001 watching for 60s
+2025-07-28 15:51:02,966 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 15:51:06,813 - INFO - 🍪 Auto-clicking consent 'Accept all' button...
+2025-07-28 15:51:08,820 - WARNING - ⚠️ Could not auto-click consent: [Errno 2] No such file or directory: 'xdotool'
+2025-07-28 15:51:08,823 - INFO - 🎬 Waiting for video loading (8.2s)...
+2025-07-28 15:51:17,017 - INFO - 🎬 Video loaded! Browser prod_0003 watching for 60s
+2025-07-28 15:51:17,021 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 15:52:02,966 - INFO - ✅ Browser prod_0001 completed 60s watch!
+2025-07-28 15:52:02,967 - INFO - 📊 Progress: 1 completed, 1 active
+2025-07-28 15:52:02,967 - INFO - 🔪 Surgically closing browser prod_0001...
+2025-07-28 15:52:04,969 - INFO - ✅ Browser prod_0001 closed gracefully
+2025-07-28 15:52:05,109 - INFO - 🎯 Browser prod_0004: Starting production view...
+2025-07-28 15:52:05,111 - INFO - 🔄 Starting TOR instance 3 (port 9053)...
+2025-07-28 15:52:16,871 - INFO - 🌐 TOR IP verified: 37.114.50.27
+2025-07-28 15:52:16,872 - INFO - ✅ TOR instance 3 ready on port 9053
+2025-07-28 15:52:16,880 - INFO - ✅ Browser prod_0004 launched (PID: 221673)
+2025-07-28 15:52:16,881 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 15:52:16,882 - INFO - 📺 Loading YouTube page through TOR...
+2025-07-28 15:52:17,024 - INFO - ✅ Browser prod_0003 completed 60s watch!
+2025-07-28 15:52:17,026 - INFO - 📊 Progress: 2 completed, 1 active
+2025-07-28 15:52:17,026 - INFO - 🔪 Surgically closing browser prod_0003...
+2025-07-28 15:52:19,040 - INFO - ✅ Browser prod_0003 closed gracefully
+2025-07-28 15:52:20,991 - INFO - 🍪 Auto-clicking consent 'Accept all' button...
+2025-07-28 15:52:23,473 - INFO - 🎯 Browser prod_0005: Starting production view...
+2025-07-28 15:52:23,478 - INFO - ✅ Browser prod_0005 launched (PID: 222006)
+2025-07-28 15:52:23,479 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 15:52:23,479 - INFO - 📺 Loading YouTube page through TOR...
+2025-07-28 15:52:27,387 - INFO - 🍪 Auto-clicking consent 'Accept all' button...
+2025-07-28 15:52:27,997 - WARNING - ⚠️ Could not auto-click consent: Command '['xdotool', 'search', '--pid', '221673', '--name', 'Google Chrome', 'windowactivate', '--sync']' timed out after 4.99992580399703 seconds
+2025-07-28 15:52:27,999 - INFO - 🎬 Waiting for video loading (9.4s)...
+2025-07-28 15:52:31,863 - INFO - ✅ Consent button clicked
+2025-07-28 15:52:31,864 - INFO - 🎬 Waiting for video loading (9.1s)...
+2025-07-28 15:52:37,365 - INFO - 🎬 Video loaded! Browser prod_0004 watching for 60s
+2025-07-28 15:52:37,366 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 15:52:40,941 - INFO - 🎬 Video loaded! Browser prod_0005 watching for 60s
+2025-07-28 15:52:40,944 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 15:53:37,367 - INFO - ✅ Browser prod_0004 completed 60s watch!
+2025-07-28 15:53:37,368 - INFO - 📊 Progress: 3 completed, 1 active
+2025-07-28 15:53:37,368 - INFO - 🔪 Surgically closing browser prod_0004...
+2025-07-28 15:53:39,372 - INFO - ✅ Browser prod_0004 closed gracefully
+2025-07-28 15:53:40,951 - INFO - ✅ Browser prod_0005 completed 60s watch!
+2025-07-28 15:53:40,951 - INFO - 📊 Progress: 4 completed, 0 active
+2025-07-28 15:53:40,951 - INFO - 🔪 Surgically closing browser prod_0005...
+2025-07-28 15:53:42,958 - INFO - ✅ Browser prod_0005 closed gracefully
+2025-07-28 15:53:43,054 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 15:53:43,055 - INFO -    ✅ Completed: 5/5 (100.0%)
+2025-07-28 15:53:43,055 - INFO -    🪟 Active browsers: 0
+2025-07-28 15:53:43,055 - INFO -    🧅 TOR instances: 2
+2025-07-28 15:53:43,055 - INFO -    ⚡ Rate: 1.6 views/minute
+2025-07-28 15:53:43,055 - INFO -    ⏱️ Elapsed: 3.2 minutes
+2025-07-28 15:53:43,064 - INFO - 📄 Final report saved to logs/
+2025-07-28 15:53:43,065 - INFO - 🧹 Starting production cleanup...
+2025-07-28 15:53:44,093 - INFO - ✅ Cleaned up TOR instance 0
+2025-07-28 15:53:45,102 - INFO - ✅ Cleaned up TOR instance 3
+2025-07-28 15:53:45,103 - INFO - ✅ Production cleanup complete
