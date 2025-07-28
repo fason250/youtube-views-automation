@@ -1,0 +1,737 @@
+2025-07-28 17:04:59,427 - INFO - 🔍 Verifying system requirements...
+2025-07-28 17:04:59,434 - INFO - ✅ TOR is installed and ready
+2025-07-28 17:04:59,519 - INFO - ✅ Google Chrome is installed
+2025-07-28 17:04:59,522 - INFO - ✅ xdotool is installed
+2025-07-28 17:04:59,522 - INFO - ✅ All requirements verified
+2025-07-28 17:05:00,908 - INFO - 🌐 Opening consent browser (regular internet for consent)...
+2025-07-28 17:05:30,913 - INFO - ✅ Manual consent acceptance completed
+2025-07-28 17:05:30,913 - INFO - 🚀 FINAL PRODUCTION YOUTUBE VIEW GENERATOR STARTED
+2025-07-28 17:05:30,914 - INFO - 📺 Target URL: https://www.youtube.com/shorts/mWa3VPDvksI?feature=share
+2025-07-28 17:05:30,914 - INFO - 🎯 Target views: 50
+2025-07-28 17:05:30,914 - INFO - 🪟 Max concurrent: 5
+2025-07-28 17:05:30,915 - INFO - ⏱️ Watch time: 90s per view
+2025-07-28 17:05:30,915 - INFO - 🧅 TOR instances: 5
+2025-07-28 17:05:30,915 - INFO - 👤 Manual consent: ACCEPTED (no bot detection)
+2025-07-28 17:05:30,915 - INFO - 📋 Session ID: 20250728_170459
+2025-07-28 17:05:30,916 - INFO - ⏰ Estimated completion: 18.3 minutes
+2025-07-28 17:05:30,917 - INFO - 🎯 Browser final_0001: Starting final production view...
+2025-07-28 17:05:30,918 - INFO - 🔄 Starting TOR instance 3 (port 9053)...
+2025-07-28 17:05:34,446 - INFO - 🎯 Browser final_0002: Starting final production view...
+2025-07-28 17:05:34,448 - INFO - 🔄 Starting TOR instance 2 (port 9052)...
+2025-07-28 17:05:38,086 - INFO - 🎯 Browser final_0003: Starting final production view...
+2025-07-28 17:05:38,087 - INFO - 🔄 Starting TOR instance 3 (port 9053)...
+2025-07-28 17:05:41,428 - INFO - 🎯 Browser final_0004: Starting final production view...
+2025-07-28 17:05:41,429 - INFO - 🔄 Starting TOR instance 3 (port 9053)...
+2025-07-28 17:05:43,832 - INFO - 🎯 Browser final_0005: Starting final production view...
+2025-07-28 17:05:43,832 - INFO - 📊 Submitted 5/50 browsers to queue
+2025-07-28 17:05:43,833 - INFO - 🔄 Starting TOR instance 2 (port 9052)...
+2025-07-28 17:05:43,852 - INFO - 🌐 TOR IP verified: 176.65.149.84
+2025-07-28 17:05:43,853 - INFO - ✅ TOR instance 3 ready on port 9053
+2025-07-28 17:05:43,977 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:05:43,981 - INFO - ✅ Browser final_0001 launched (PID: 327947)
+2025-07-28 17:05:43,981 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:05:43,981 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:05:43,981 - INFO - 📺 Loading YouTube through TOR with consent session (17.1s)...
+2025-07-28 17:05:46,855 - INFO - 🌐 TOR IP verified: 109.69.67.17
+2025-07-28 17:05:46,856 - INFO - ✅ TOR instance 2 ready on port 9052
+2025-07-28 17:05:46,978 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:05:46,982 - INFO - ✅ Browser final_0002 launched (PID: 328305)
+2025-07-28 17:05:46,985 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:05:46,985 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:05:46,985 - INFO - 📺 Loading YouTube through TOR with consent session (14.1s)...
+2025-07-28 17:05:54,052 - INFO - 🌐 TOR IP verified: 176.65.149.84
+2025-07-28 17:05:54,054 - INFO - ✅ TOR instance 3 ready on port 9053
+2025-07-28 17:05:54,364 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:05:54,379 - INFO - ✅ Browser final_0003 launched (PID: 328622)
+2025-07-28 17:05:54,380 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:05:54,382 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:05:54,383 - INFO - 📺 Loading YouTube through TOR with consent session (12.0s)...
+2025-07-28 17:05:55,269 - INFO - 🌐 TOR IP verified: 176.65.149.84
+2025-07-28 17:05:55,270 - INFO - ✅ TOR instance 3 ready on port 9053
+2025-07-28 17:05:55,492 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:05:55,504 - INFO - ✅ Browser final_0004 launched (PID: 328676)
+2025-07-28 17:05:55,504 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:05:55,504 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:05:55,505 - INFO - 📺 Loading YouTube through TOR with consent session (14.3s)...
+2025-07-28 17:05:58,227 - INFO - 🌐 TOR IP verified: 109.69.67.17
+2025-07-28 17:05:58,238 - INFO - ✅ TOR instance 2 ready on port 9052
+2025-07-28 17:05:58,768 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:05:58,784 - INFO - ✅ Browser final_0005 launched (PID: 328938)
+2025-07-28 17:05:58,787 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:05:58,787 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:05:58,787 - INFO - 📺 Loading YouTube through TOR with consent session (14.4s)...
+2025-07-28 17:06:01,050 - INFO - 🎬 Video loaded! Browser final_0002 watching for 90s
+2025-07-28 17:06:01,053 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:06:01,054 - INFO - 🎬 Video loaded! Browser final_0001 watching for 90s
+2025-07-28 17:06:01,056 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:06:02,267 - INFO - 📊 Submitted 10/50 browsers to queue
+2025-07-28 17:06:06,407 - INFO - 🎬 Video loaded! Browser final_0003 watching for 90s
+2025-07-28 17:06:06,407 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:06:09,784 - INFO - 🎬 Video loaded! Browser final_0004 watching for 90s
+2025-07-28 17:06:09,785 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:06:13,165 - INFO - 🎬 Video loaded! Browser final_0005 watching for 90s
+2025-07-28 17:06:13,167 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:06:17,991 - INFO - 📊 Submitted 15/50 browsers to queue
+2025-07-28 17:06:32,373 - INFO - 📊 Submitted 20/50 browsers to queue
+2025-07-28 17:06:44,594 - INFO - 📊 Submitted 25/50 browsers to queue
+2025-07-28 17:06:59,683 - INFO - 📊 Submitted 30/50 browsers to queue
+2025-07-28 17:07:14,106 - INFO - 📊 Submitted 35/50 browsers to queue
+2025-07-28 17:07:29,775 - INFO - 📊 Submitted 40/50 browsers to queue
+2025-07-28 17:07:31,055 - INFO - ✅ Browser final_0002 completed 90s watch!
+2025-07-28 17:07:31,055 - INFO - 📊 Progress: 1 completed, 4 active
+2025-07-28 17:07:31,055 - INFO - 🔪 Surgically closing browser final_0002...
+2025-07-28 17:07:31,057 - INFO - ✅ Browser final_0001 completed 90s watch!
+2025-07-28 17:07:31,057 - INFO - 📊 Progress: 2 completed, 4 active
+2025-07-28 17:07:31,057 - INFO - 🔪 Surgically closing browser final_0001...
+2025-07-28 17:07:33,056 - INFO - ✅ Browser final_0002 closed gracefully
+2025-07-28 17:07:33,060 - INFO - ✅ Browser final_0001 closed gracefully
+2025-07-28 17:07:33,108 - INFO - 🎯 Browser final_0006: Starting final production view...
+2025-07-28 17:07:33,109 - INFO - 🔄 Starting TOR instance 0 (port 9050)...
+2025-07-28 17:07:33,127 - INFO - 🎯 Browser final_0007: Starting final production view...
+2025-07-28 17:07:33,128 - INFO - 🔄 Starting TOR instance 1 (port 9051)...
+2025-07-28 17:07:36,408 - INFO - ✅ Browser final_0003 completed 90s watch!
+2025-07-28 17:07:36,408 - INFO - 📊 Progress: 3 completed, 2 active
+2025-07-28 17:07:36,408 - INFO - 🔪 Surgically closing browser final_0003...
+2025-07-28 17:07:38,410 - INFO - ✅ Browser final_0003 closed gracefully
+2025-07-28 17:07:38,456 - INFO - 🎯 Browser final_0008: Starting final production view...
+2025-07-28 17:07:39,651 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:07:39,656 - INFO - ✅ Browser final_0008 launched (PID: 331945)
+2025-07-28 17:07:39,656 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:07:39,657 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:07:39,657 - INFO - 📺 Loading YouTube through TOR with consent session (12.3s)...
+2025-07-28 17:07:39,788 - INFO - ✅ Browser final_0004 completed 90s watch!
+2025-07-28 17:07:39,788 - INFO - 📊 Progress: 4 completed, 2 active
+2025-07-28 17:07:39,788 - INFO - 🔪 Surgically closing browser final_0004...
+2025-07-28 17:07:41,798 - INFO - ✅ Browser final_0004 closed gracefully
+2025-07-28 17:07:41,851 - INFO - 🎯 Browser final_0009: Starting final production view...
+2025-07-28 17:07:41,993 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:07:41,996 - INFO - ✅ Browser final_0009 launched (PID: 332157)
+2025-07-28 17:07:41,997 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:07:41,997 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:07:41,997 - INFO - 📺 Loading YouTube through TOR with consent session (16.5s)...
+2025-07-28 17:07:43,170 - INFO - ✅ Browser final_0005 completed 90s watch!
+2025-07-28 17:07:43,170 - INFO - 📊 Progress: 5 completed, 2 active
+2025-07-28 17:07:43,170 - INFO - 🔪 Surgically closing browser final_0005...
+2025-07-28 17:07:44,690 - INFO - 🌐 TOR IP verified: 185.220.101.102
+2025-07-28 17:07:44,690 - INFO - ✅ TOR instance 0 ready on port 9050
+2025-07-28 17:07:44,807 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:07:44,810 - INFO - ✅ Browser final_0006 launched (PID: 332286)
+2025-07-28 17:07:44,810 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:07:44,810 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:07:44,811 - INFO - 📺 Loading YouTube through TOR with consent session (10.1s)...
+2025-07-28 17:07:45,172 - INFO - ✅ Browser final_0005 closed gracefully
+2025-07-28 17:07:45,273 - INFO - 🎯 Browser final_0010: Starting final production view...
+2025-07-28 17:07:45,326 - INFO - 📊 Submitted 45/50 browsers to queue
+2025-07-28 17:07:45,432 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:07:45,436 - INFO - ✅ Browser final_0010 launched (PID: 332364)
+2025-07-28 17:07:45,436 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:07:45,436 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:07:45,436 - INFO - 📺 Loading YouTube through TOR with consent session (17.8s)...
+2025-07-28 17:07:47,720 - INFO - 🌐 TOR IP verified: 195.47.238.83
+2025-07-28 17:07:47,721 - INFO - ✅ TOR instance 1 ready on port 9051
+2025-07-28 17:07:47,931 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:07:47,945 - INFO - ✅ Browser final_0007 launched (PID: 332723)
+2025-07-28 17:07:47,946 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:07:47,946 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:07:47,946 - INFO - 📺 Loading YouTube through TOR with consent session (17.6s)...
+2025-07-28 17:07:51,918 - INFO - 🎬 Video loaded! Browser final_0008 watching for 90s
+2025-07-28 17:07:51,918 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:07:54,919 - INFO - 🎬 Video loaded! Browser final_0006 watching for 90s
+2025-07-28 17:07:54,921 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:07:58,475 - INFO - 🎬 Video loaded! Browser final_0009 watching for 90s
+2025-07-28 17:07:58,475 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:07:58,677 - INFO - 📊 Submitted 50/50 browsers to queue
+2025-07-28 17:08:02,354 - INFO - ✅ All 50 browsers submitted to final production queue!
+2025-07-28 17:08:02,356 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:08:02,356 - INFO -    ✅ Completed: 3/50 (6.0%)
+2025-07-28 17:08:02,356 - INFO -    🪟 Active browsers: 5
+2025-07-28 17:08:02,357 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:08:02,357 - INFO -    ⚡ Rate: 1.2 views/minute
+2025-07-28 17:08:02,362 - INFO -    ⏱️ Elapsed: 2.5 minutes
+2025-07-28 17:08:03,222 - INFO - 🎬 Video loaded! Browser final_0010 watching for 90s
+2025-07-28 17:08:03,230 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:08:05,558 - INFO - 🎬 Video loaded! Browser final_0007 watching for 90s
+2025-07-28 17:08:05,559 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:09:21,919 - INFO - ✅ Browser final_0008 completed 90s watch!
+2025-07-28 17:09:21,924 - INFO - 📊 Progress: 6 completed, 4 active
+2025-07-28 17:09:21,925 - INFO - 🔪 Surgically closing browser final_0008...
+2025-07-28 17:09:23,935 - INFO - ✅ Browser final_0008 closed gracefully
+2025-07-28 17:09:24,928 - INFO - ✅ Browser final_0006 completed 90s watch!
+2025-07-28 17:09:24,948 - INFO - 📊 Progress: 7 completed, 4 active
+2025-07-28 17:09:24,955 - INFO - 🔪 Surgically closing browser final_0006...
+2025-07-28 17:09:26,981 - INFO - ✅ Browser final_0006 closed gracefully
+2025-07-28 17:09:27,823 - INFO - 🎯 Browser final_0011: Starting final production view...
+2025-07-28 17:09:27,827 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:09:27,828 - INFO -    ✅ Completed: 6/50 (12.0%)
+2025-07-28 17:09:27,828 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:09:27,829 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:09:27,829 - INFO -    ⚡ Rate: 1.5 views/minute
+2025-07-28 17:09:27,829 - INFO -    ⏱️ Elapsed: 3.9 minutes
+2025-07-28 17:09:27,921 - INFO - 🎯 Browser final_0012: Starting final production view...
+2025-07-28 17:09:28,477 - INFO - ✅ Browser final_0009 completed 90s watch!
+2025-07-28 17:09:28,479 - INFO - 📊 Progress: 8 completed, 2 active
+2025-07-28 17:09:28,480 - INFO - 🔪 Surgically closing browser final_0009...
+2025-07-28 17:09:30,490 - INFO - ✅ Browser final_0009 closed gracefully
+2025-07-28 17:09:31,352 - INFO - 🎯 Browser final_0013: Starting final production view...
+2025-07-28 17:09:33,165 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:09:33,165 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:09:33,165 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:09:33,172 - INFO - ✅ Browser final_0013 launched (PID: 334802)
+2025-07-28 17:09:33,173 - INFO - ✅ Browser final_0012 launched (PID: 334803)
+2025-07-28 17:09:33,174 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:09:33,175 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:09:33,177 - INFO - 📺 Loading YouTube through TOR with consent session (16.2s)...
+2025-07-28 17:09:33,177 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:09:33,177 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:09:33,177 - INFO - 📺 Loading YouTube through TOR with consent session (15.0s)...
+2025-07-28 17:09:33,177 - INFO - ✅ Browser final_0011 launched (PID: 334804)
+2025-07-28 17:09:33,178 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:09:33,178 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:09:33,178 - INFO - 📺 Loading YouTube through TOR with consent session (14.7s)...
+2025-07-28 17:09:33,243 - INFO - ✅ Browser final_0010 completed 90s watch!
+2025-07-28 17:09:33,243 - INFO - 📊 Progress: 9 completed, 4 active
+2025-07-28 17:09:33,243 - INFO - 🔪 Surgically closing browser final_0010...
+2025-07-28 17:09:35,257 - INFO - ✅ Browser final_0010 closed gracefully
+2025-07-28 17:09:35,560 - INFO - ✅ Browser final_0007 completed 90s watch!
+2025-07-28 17:09:35,562 - INFO - 📊 Progress: 10 completed, 4 active
+2025-07-28 17:09:35,564 - INFO - 🔪 Surgically closing browser final_0007...
+2025-07-28 17:09:36,298 - INFO - 🎯 Browser final_0014: Starting final production view...
+2025-07-28 17:09:36,299 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:09:36,301 - INFO -    ✅ Completed: 9/50 (18.0%)
+2025-07-28 17:09:36,301 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:09:36,301 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:09:36,302 - INFO -    ⚡ Rate: 2.2 views/minute
+2025-07-28 17:09:36,302 - INFO -    ⏱️ Elapsed: 4.1 minutes
+2025-07-28 17:09:36,440 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:09:36,444 - INFO - ✅ Browser final_0014 launched (PID: 335038)
+2025-07-28 17:09:36,444 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:09:36,444 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:09:36,444 - INFO - 📺 Loading YouTube through TOR with consent session (13.6s)...
+2025-07-28 17:09:37,570 - INFO - ✅ Browser final_0007 closed gracefully
+2025-07-28 17:09:38,651 - INFO - 🎯 Browser final_0015: Starting final production view...
+2025-07-28 17:09:38,938 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:09:38,945 - INFO - ✅ Browser final_0015 launched (PID: 335262)
+2025-07-28 17:09:38,947 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:09:38,948 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:09:38,949 - INFO - 📺 Loading YouTube through TOR with consent session (12.9s)...
+2025-07-28 17:09:47,915 - INFO - 🎬 Video loaded! Browser final_0011 watching for 90s
+2025-07-28 17:09:47,916 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:09:48,171 - INFO - 🎬 Video loaded! Browser final_0012 watching for 90s
+2025-07-28 17:09:48,172 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:09:49,343 - INFO - 🎬 Video loaded! Browser final_0013 watching for 90s
+2025-07-28 17:09:49,343 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:09:50,095 - INFO - 🎬 Video loaded! Browser final_0014 watching for 90s
+2025-07-28 17:09:50,103 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:09:51,881 - INFO - 🎬 Video loaded! Browser final_0015 watching for 90s
+2025-07-28 17:09:51,885 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:11:17,916 - INFO - ✅ Browser final_0011 completed 90s watch!
+2025-07-28 17:11:17,953 - INFO - 📊 Progress: 11 completed, 4 active
+2025-07-28 17:11:17,954 - INFO - 🔪 Surgically closing browser final_0011...
+2025-07-28 17:11:18,172 - INFO - ✅ Browser final_0012 completed 90s watch!
+2025-07-28 17:11:18,172 - INFO - 📊 Progress: 12 completed, 4 active
+2025-07-28 17:11:18,173 - INFO - 🔪 Surgically closing browser final_0012...
+2025-07-28 17:11:19,344 - INFO - ✅ Browser final_0013 completed 90s watch!
+2025-07-28 17:11:19,344 - INFO - 📊 Progress: 13 completed, 4 active
+2025-07-28 17:11:19,344 - INFO - 🔪 Surgically closing browser final_0013...
+2025-07-28 17:11:19,955 - INFO - ✅ Browser final_0011 closed gracefully
+2025-07-28 17:11:20,110 - INFO - ✅ Browser final_0014 completed 90s watch!
+2025-07-28 17:11:20,110 - INFO - 📊 Progress: 14 completed, 4 active
+2025-07-28 17:11:20,111 - INFO - 🔪 Surgically closing browser final_0014...
+2025-07-28 17:11:20,174 - INFO - ✅ Browser final_0012 closed gracefully
+2025-07-28 17:11:20,897 - INFO - 🎯 Browser final_0016: Starting final production view...
+2025-07-28 17:11:20,901 - INFO - 🎯 Browser final_0017: Starting final production view...
+2025-07-28 17:11:20,901 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:11:20,902 - INFO -    ✅ Completed: 12/50 (24.0%)
+2025-07-28 17:11:20,902 - INFO -    🪟 Active browsers: 3
+2025-07-28 17:11:20,902 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:11:20,902 - INFO -    ⚡ Rate: 2.1 views/minute
+2025-07-28 17:11:20,902 - INFO -    ⏱️ Elapsed: 5.8 minutes
+2025-07-28 17:11:21,352 - INFO - ✅ Browser final_0013 closed gracefully
+2025-07-28 17:11:21,909 - INFO - ✅ Browser final_0015 completed 90s watch!
+2025-07-28 17:11:21,909 - INFO - 📊 Progress: 15 completed, 2 active
+2025-07-28 17:11:21,909 - INFO - 🔪 Surgically closing browser final_0015...
+2025-07-28 17:11:21,919 - INFO - 🎯 Browser final_0018: Starting final production view...
+2025-07-28 17:11:22,116 - INFO - ✅ Browser final_0014 closed gracefully
+2025-07-28 17:11:23,530 - INFO - 🎯 Browser final_0019: Starting final production view...
+2025-07-28 17:11:23,914 - INFO - ✅ Browser final_0015 closed gracefully
+2025-07-28 17:11:24,275 - INFO - 🎯 Browser final_0020: Starting final production view...
+2025-07-28 17:11:24,275 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:11:24,276 - INFO -    ✅ Completed: 15/50 (30.0%)
+2025-07-28 17:11:24,276 - INFO -    🪟 Active browsers: 0
+2025-07-28 17:11:24,276 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:11:24,277 - INFO -    ⚡ Rate: 2.5 views/minute
+2025-07-28 17:11:24,277 - INFO -    ⏱️ Elapsed: 5.9 minutes
+2025-07-28 17:11:24,749 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:11:24,749 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:11:24,749 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:11:24,749 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:11:24,749 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:11:24,759 - INFO - ✅ Browser final_0020 launched (PID: 337507)
+2025-07-28 17:11:24,759 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:11:24,759 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:11:24,759 - INFO - 📺 Loading YouTube through TOR with consent session (11.6s)...
+2025-07-28 17:11:24,752 - INFO - ✅ Browser final_0018 launched (PID: 337506)
+2025-07-28 17:11:24,760 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:11:24,760 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:11:24,760 - INFO - 📺 Loading YouTube through TOR with consent session (10.7s)...
+2025-07-28 17:11:24,760 - INFO - ✅ Browser final_0016 launched (PID: 337509)
+2025-07-28 17:11:24,760 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:11:24,760 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:11:24,760 - INFO - 📺 Loading YouTube through TOR with consent session (10.8s)...
+2025-07-28 17:11:24,768 - INFO - ✅ Browser final_0019 launched (PID: 337512)
+2025-07-28 17:11:24,768 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:11:24,768 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:11:24,769 - INFO - 📺 Loading YouTube through TOR with consent session (11.4s)...
+2025-07-28 17:11:24,770 - INFO - ✅ Browser final_0017 launched (PID: 337516)
+2025-07-28 17:11:24,770 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:11:24,770 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:11:24,771 - INFO - 📺 Loading YouTube through TOR with consent session (15.4s)...
+2025-07-28 17:11:35,498 - INFO - 🎬 Video loaded! Browser final_0018 watching for 90s
+2025-07-28 17:11:35,500 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:11:35,568 - INFO - 🎬 Video loaded! Browser final_0016 watching for 90s
+2025-07-28 17:11:35,572 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:11:36,186 - INFO - 🎬 Video loaded! Browser final_0019 watching for 90s
+2025-07-28 17:11:36,186 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:11:36,434 - INFO - 🎬 Video loaded! Browser final_0020 watching for 90s
+2025-07-28 17:11:36,437 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:11:40,208 - INFO - 🎬 Video loaded! Browser final_0017 watching for 90s
+2025-07-28 17:11:40,208 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:13:05,501 - INFO - ✅ Browser final_0018 completed 90s watch!
+2025-07-28 17:13:05,501 - INFO - 📊 Progress: 16 completed, 4 active
+2025-07-28 17:13:05,501 - INFO - 🔪 Surgically closing browser final_0018...
+2025-07-28 17:13:05,572 - INFO - ✅ Browser final_0016 completed 90s watch!
+2025-07-28 17:13:05,573 - INFO - 📊 Progress: 17 completed, 4 active
+2025-07-28 17:13:05,573 - INFO - 🔪 Surgically closing browser final_0016...
+2025-07-28 17:13:06,186 - INFO - ✅ Browser final_0019 completed 90s watch!
+2025-07-28 17:13:06,187 - INFO - 📊 Progress: 18 completed, 4 active
+2025-07-28 17:13:06,188 - INFO - 🔪 Surgically closing browser final_0019...
+2025-07-28 17:13:06,438 - INFO - ✅ Browser final_0020 completed 90s watch!
+2025-07-28 17:13:06,438 - INFO - 📊 Progress: 19 completed, 4 active
+2025-07-28 17:13:06,438 - INFO - 🔪 Surgically closing browser final_0020...
+2025-07-28 17:13:07,508 - INFO - ✅ Browser final_0018 closed gracefully
+2025-07-28 17:13:07,573 - INFO - ✅ Browser final_0016 closed gracefully
+2025-07-28 17:13:07,592 - INFO - 🎯 Browser final_0021: Starting final production view...
+2025-07-28 17:13:07,620 - INFO - 🎯 Browser final_0022: Starting final production view...
+2025-07-28 17:13:07,912 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:13:07,912 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:13:07,915 - INFO - ✅ Browser final_0021 launched (PID: 339889)
+2025-07-28 17:13:07,915 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:13:07,915 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:13:07,915 - INFO - 📺 Loading YouTube through TOR with consent session (18.0s)...
+2025-07-28 17:13:07,917 - INFO - ✅ Browser final_0022 launched (PID: 339890)
+2025-07-28 17:13:07,917 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:13:07,917 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:13:07,917 - INFO - 📺 Loading YouTube through TOR with consent session (14.1s)...
+2025-07-28 17:13:08,191 - INFO - ✅ Browser final_0019 closed gracefully
+2025-07-28 17:13:08,333 - INFO - 🎯 Browser final_0023: Starting final production view...
+2025-07-28 17:13:08,334 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:13:08,334 - INFO -    ✅ Completed: 18/50 (36.0%)
+2025-07-28 17:13:08,334 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:13:08,335 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:13:08,335 - INFO -    ⚡ Rate: 2.4 views/minute
+2025-07-28 17:13:08,335 - INFO -    ⏱️ Elapsed: 7.6 minutes
+2025-07-28 17:13:08,440 - INFO - ✅ Browser final_0020 closed gracefully
+2025-07-28 17:13:08,543 - INFO - 🎯 Browser final_0024: Starting final production view...
+2025-07-28 17:13:08,576 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:13:08,580 - INFO - ✅ Browser final_0023 launched (PID: 339905)
+2025-07-28 17:13:08,580 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:13:08,580 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:13:08,580 - INFO - 📺 Loading YouTube through TOR with consent session (17.8s)...
+2025-07-28 17:13:08,702 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:13:08,705 - INFO - ✅ Browser final_0024 launched (PID: 339911)
+2025-07-28 17:13:08,705 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:13:08,705 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:13:08,705 - INFO - 📺 Loading YouTube through TOR with consent session (10.9s)...
+2025-07-28 17:13:10,208 - INFO - ✅ Browser final_0017 completed 90s watch!
+2025-07-28 17:13:10,209 - INFO - 📊 Progress: 20 completed, 4 active
+2025-07-28 17:13:10,209 - INFO - 🔪 Surgically closing browser final_0017...
+2025-07-28 17:13:12,218 - INFO - ✅ Browser final_0017 closed gracefully
+2025-07-28 17:13:12,408 - INFO - 🎯 Browser final_0025: Starting final production view...
+2025-07-28 17:13:12,429 - INFO - 🔄 Starting TOR instance 4 (port 9054)...
+2025-07-28 17:13:19,631 - INFO - 🎬 Video loaded! Browser final_0024 watching for 90s
+2025-07-28 17:13:19,631 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:13:22,031 - INFO - 🎬 Video loaded! Browser final_0022 watching for 90s
+2025-07-28 17:13:22,032 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:13:25,897 - INFO - 🎬 Video loaded! Browser final_0021 watching for 90s
+2025-07-28 17:13:25,897 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:13:26,417 - INFO - 🎬 Video loaded! Browser final_0023 watching for 90s
+2025-07-28 17:13:26,418 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:13:38,849 - WARNING - TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x765a03f394f0>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 17:13:38,853 - ERROR - ❌ TOR instance 4 failed verification
+2025-07-28 17:13:38,855 - ERROR - ❌ Browser final_0025 failed: Failed to establish TOR connection
+2025-07-28 17:13:38,859 - INFO - 🎯 Browser final_0026: Starting final production view...
+2025-07-28 17:13:38,860 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:13:38,863 - INFO -    ✅ Completed: 21/50 (42.0%)
+2025-07-28 17:13:38,863 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:13:38,864 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:13:38,867 - INFO -    ⚡ Rate: 2.6 views/minute
+2025-07-28 17:13:38,868 - INFO -    ⏱️ Elapsed: 8.1 minutes
+2025-07-28 17:13:39,176 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:13:39,191 - INFO - ✅ Browser final_0026 launched (PID: 341612)
+2025-07-28 17:13:39,192 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:13:39,192 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:13:39,193 - INFO - 📺 Loading YouTube through TOR with consent session (16.7s)...
+2025-07-28 17:13:55,935 - INFO - 🎬 Video loaded! Browser final_0026 watching for 90s
+2025-07-28 17:13:55,939 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:14:49,631 - INFO - ✅ Browser final_0024 completed 90s watch!
+2025-07-28 17:14:49,632 - INFO - 📊 Progress: 21 completed, 4 active
+2025-07-28 17:14:49,632 - INFO - 🔪 Surgically closing browser final_0024...
+2025-07-28 17:14:51,634 - INFO - ✅ Browser final_0024 closed gracefully
+2025-07-28 17:14:51,697 - INFO - 🎯 Browser final_0027: Starting final production view...
+2025-07-28 17:14:51,794 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:14:51,798 - INFO - ✅ Browser final_0027 launched (PID: 343061)
+2025-07-28 17:14:51,798 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:14:51,798 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:14:51,799 - INFO - 📺 Loading YouTube through TOR with consent session (17.2s)...
+2025-07-28 17:14:52,038 - INFO - ✅ Browser final_0022 completed 90s watch!
+2025-07-28 17:14:52,038 - INFO - 📊 Progress: 22 completed, 4 active
+2025-07-28 17:14:52,038 - INFO - 🔪 Surgically closing browser final_0022...
+2025-07-28 17:14:54,043 - INFO - ✅ Browser final_0022 closed gracefully
+2025-07-28 17:14:54,128 - INFO - 🎯 Browser final_0028: Starting final production view...
+2025-07-28 17:14:54,292 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:14:54,302 - INFO - ✅ Browser final_0028 launched (PID: 343309)
+2025-07-28 17:14:54,302 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:14:54,302 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:14:54,303 - INFO - 📺 Loading YouTube through TOR with consent session (15.0s)...
+2025-07-28 17:14:55,900 - INFO - ✅ Browser final_0021 completed 90s watch!
+2025-07-28 17:14:55,901 - INFO - 📊 Progress: 23 completed, 4 active
+2025-07-28 17:14:55,901 - INFO - 🔪 Surgically closing browser final_0021...
+2025-07-28 17:14:56,419 - INFO - ✅ Browser final_0023 completed 90s watch!
+2025-07-28 17:14:56,419 - INFO - 📊 Progress: 24 completed, 4 active
+2025-07-28 17:14:56,419 - INFO - 🔪 Surgically closing browser final_0023...
+2025-07-28 17:14:57,904 - INFO - ✅ Browser final_0021 closed gracefully
+2025-07-28 17:14:57,962 - INFO - 🎯 Browser final_0029: Starting final production view...
+2025-07-28 17:14:57,962 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:14:57,962 - INFO -    ✅ Completed: 24/50 (48.0%)
+2025-07-28 17:14:57,962 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:14:57,963 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:14:57,963 - INFO -    ⚡ Rate: 2.5 views/minute
+2025-07-28 17:14:57,963 - INFO -    ⏱️ Elapsed: 9.5 minutes
+2025-07-28 17:14:57,963 - INFO - 🔄 Starting TOR instance 4 (port 9054)...
+2025-07-28 17:14:58,423 - INFO - ✅ Browser final_0023 closed gracefully
+2025-07-28 17:14:58,498 - INFO - 🎯 Browser final_0030: Starting final production view...
+2025-07-28 17:14:58,713 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:14:58,718 - INFO - ✅ Browser final_0030 launched (PID: 343676)
+2025-07-28 17:14:58,719 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:14:58,719 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:14:58,719 - INFO - 📺 Loading YouTube through TOR with consent session (12.8s)...
+2025-07-28 17:15:09,008 - INFO - 🎬 Video loaded! Browser final_0027 watching for 90s
+2025-07-28 17:15:09,008 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:15:09,314 - INFO - 🎬 Video loaded! Browser final_0028 watching for 90s
+2025-07-28 17:15:09,315 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:15:11,509 - INFO - 🎬 Video loaded! Browser final_0030 watching for 90s
+2025-07-28 17:15:11,518 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:15:22,093 - WARNING - TOR verification failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Max retries exceeded with url: /ip (Caused by ConnectTimeoutError(<urllib3.contrib.socks.SOCKSConnection object at 0x765a03f3a870>, 'Connection to httpbin.org timed out. (connect timeout=15)'))
+2025-07-28 17:15:22,096 - ERROR - ❌ TOR instance 4 failed verification
+2025-07-28 17:15:22,098 - ERROR - ❌ Browser final_0029 failed: Failed to establish TOR connection
+2025-07-28 17:15:22,105 - INFO - 🎯 Browser final_0031: Starting final production view...
+2025-07-28 17:15:22,572 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:15:22,594 - INFO - ✅ Browser final_0031 launched (PID: 344486)
+2025-07-28 17:15:22,599 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:15:22,602 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:15:22,602 - INFO - 📺 Loading YouTube through TOR with consent session (17.0s)...
+2025-07-28 17:15:25,950 - INFO - ✅ Browser final_0026 completed 90s watch!
+2025-07-28 17:15:25,951 - INFO - 📊 Progress: 25 completed, 4 active
+2025-07-28 17:15:25,955 - INFO - 🔪 Surgically closing browser final_0026...
+2025-07-28 17:15:27,973 - INFO - ✅ Browser final_0026 closed gracefully
+2025-07-28 17:15:29,056 - INFO - 🎯 Browser final_0032: Starting final production view...
+2025-07-28 17:15:29,058 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:15:29,068 - INFO -    ✅ Completed: 27/50 (54.0%)
+2025-07-28 17:15:29,069 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:15:29,069 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:15:29,069 - INFO -    ⚡ Rate: 2.7 views/minute
+2025-07-28 17:15:29,069 - INFO -    ⏱️ Elapsed: 10.0 minutes
+2025-07-28 17:15:30,641 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:15:30,693 - INFO - ✅ Browser final_0032 launched (PID: 344888)
+2025-07-28 17:15:30,700 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:15:30,702 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:15:30,703 - INFO - 📺 Loading YouTube through TOR with consent session (14.7s)...
+2025-07-28 17:15:39,600 - INFO - 🎬 Video loaded! Browser final_0031 watching for 90s
+2025-07-28 17:15:39,600 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:15:45,402 - INFO - 🎬 Video loaded! Browser final_0032 watching for 90s
+2025-07-28 17:15:45,405 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:16:39,008 - INFO - ✅ Browser final_0027 completed 90s watch!
+2025-07-28 17:16:39,016 - INFO - 📊 Progress: 26 completed, 4 active
+2025-07-28 17:16:39,017 - INFO - 🔪 Surgically closing browser final_0027...
+2025-07-28 17:16:39,320 - INFO - ✅ Browser final_0028 completed 90s watch!
+2025-07-28 17:16:39,345 - INFO - 📊 Progress: 27 completed, 4 active
+2025-07-28 17:16:39,349 - INFO - 🔪 Surgically closing browser final_0028...
+2025-07-28 17:16:41,083 - INFO - ✅ Browser final_0027 closed gracefully
+2025-07-28 17:16:41,396 - INFO - ✅ Browser final_0028 closed gracefully
+2025-07-28 17:16:41,526 - INFO - ✅ Browser final_0030 completed 90s watch!
+2025-07-28 17:16:41,526 - INFO - 📊 Progress: 28 completed, 4 active
+2025-07-28 17:16:41,526 - INFO - 🔪 Surgically closing browser final_0030...
+2025-07-28 17:16:41,859 - INFO - 🎯 Browser final_0033: Starting final production view...
+2025-07-28 17:16:42,284 - INFO - 🎯 Browser final_0034: Starting final production view...
+2025-07-28 17:16:42,669 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:16:42,695 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:16:42,753 - INFO - ✅ Browser final_0034 launched (PID: 346471)
+2025-07-28 17:16:42,769 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:16:42,770 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:16:42,770 - INFO - 📺 Loading YouTube through TOR with consent session (13.7s)...
+2025-07-28 17:16:42,811 - INFO - ✅ Browser final_0033 launched (PID: 346474)
+2025-07-28 17:16:42,814 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:16:42,818 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:16:42,821 - INFO - 📺 Loading YouTube through TOR with consent session (16.9s)...
+2025-07-28 17:16:43,534 - INFO - ✅ Browser final_0030 closed gracefully
+2025-07-28 17:16:43,655 - INFO - 🎯 Browser final_0035: Starting final production view...
+2025-07-28 17:16:43,655 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:16:43,670 - INFO -    ✅ Completed: 30/50 (60.0%)
+2025-07-28 17:16:43,670 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:16:43,676 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:16:43,684 - INFO -    ⚡ Rate: 2.7 views/minute
+2025-07-28 17:16:43,695 - INFO -    ⏱️ Elapsed: 11.2 minutes
+2025-07-28 17:16:44,367 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:16:44,415 - INFO - ✅ Browser final_0035 launched (PID: 346571)
+2025-07-28 17:16:44,426 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:16:44,428 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:16:44,434 - INFO - 📺 Loading YouTube through TOR with consent session (10.6s)...
+2025-07-28 17:16:55,024 - INFO - 🎬 Video loaded! Browser final_0035 watching for 90s
+2025-07-28 17:16:55,025 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:16:56,432 - INFO - 🎬 Video loaded! Browser final_0034 watching for 90s
+2025-07-28 17:16:56,447 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:16:59,695 - INFO - 🎬 Video loaded! Browser final_0033 watching for 90s
+2025-07-28 17:16:59,705 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:17:09,608 - INFO - ✅ Browser final_0031 completed 90s watch!
+2025-07-28 17:17:09,621 - INFO - 📊 Progress: 29 completed, 4 active
+2025-07-28 17:17:09,641 - INFO - 🔪 Surgically closing browser final_0031...
+2025-07-28 17:17:11,657 - INFO - ✅ Browser final_0031 closed gracefully
+2025-07-28 17:17:12,025 - INFO - 🎯 Browser final_0036: Starting final production view...
+2025-07-28 17:17:12,682 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:17:12,713 - INFO - ✅ Browser final_0036 launched (PID: 347888)
+2025-07-28 17:17:12,721 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:17:12,726 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:17:12,740 - INFO - 📺 Loading YouTube through TOR with consent session (16.0s)...
+2025-07-28 17:17:15,413 - INFO - ✅ Browser final_0032 completed 90s watch!
+2025-07-28 17:17:15,417 - INFO - 📊 Progress: 30 completed, 4 active
+2025-07-28 17:17:15,418 - INFO - 🔪 Surgically closing browser final_0032...
+2025-07-28 17:17:17,475 - INFO - ✅ Browser final_0032 closed gracefully
+2025-07-28 17:17:18,500 - INFO - 🎯 Browser final_0037: Starting final production view...
+2025-07-28 17:17:19,880 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:17:20,000 - INFO - ✅ Browser final_0037 launched (PID: 348281)
+2025-07-28 17:17:20,019 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:17:20,021 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:17:20,034 - INFO - 📺 Loading YouTube through TOR with consent session (13.5s)...
+2025-07-28 17:17:28,746 - INFO - 🎬 Video loaded! Browser final_0036 watching for 90s
+2025-07-28 17:17:28,754 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:17:33,570 - INFO - 🎬 Video loaded! Browser final_0037 watching for 90s
+2025-07-28 17:17:33,571 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:18:25,029 - INFO - ✅ Browser final_0035 completed 90s watch!
+2025-07-28 17:18:25,034 - INFO - 📊 Progress: 31 completed, 4 active
+2025-07-28 17:18:25,042 - INFO - 🔪 Surgically closing browser final_0035...
+2025-07-28 17:18:26,453 - INFO - ✅ Browser final_0034 completed 90s watch!
+2025-07-28 17:18:26,454 - INFO - 📊 Progress: 32 completed, 4 active
+2025-07-28 17:18:26,458 - INFO - 🔪 Surgically closing browser final_0034...
+2025-07-28 17:18:27,053 - INFO - ✅ Browser final_0035 closed gracefully
+2025-07-28 17:18:27,105 - INFO - 🎯 Browser final_0038: Starting final production view...
+2025-07-28 17:18:27,105 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:18:27,106 - INFO -    ✅ Completed: 33/50 (66.0%)
+2025-07-28 17:18:27,106 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:18:27,106 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:18:27,106 - INFO -    ⚡ Rate: 2.6 views/minute
+2025-07-28 17:18:27,106 - INFO -    ⏱️ Elapsed: 12.9 minutes
+2025-07-28 17:18:27,391 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:18:27,397 - INFO - ✅ Browser final_0038 launched (PID: 349734)
+2025-07-28 17:18:27,398 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:18:27,398 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:18:27,399 - INFO - 📺 Loading YouTube through TOR with consent session (17.2s)...
+2025-07-28 17:18:28,468 - INFO - ✅ Browser final_0034 closed gracefully
+2025-07-28 17:18:28,749 - INFO - 🎯 Browser final_0039: Starting final production view...
+2025-07-28 17:18:28,999 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:18:29,004 - INFO - ✅ Browser final_0039 launched (PID: 349921)
+2025-07-28 17:18:29,004 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:18:29,005 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:18:29,005 - INFO - 📺 Loading YouTube through TOR with consent session (17.5s)...
+2025-07-28 17:18:29,714 - INFO - ✅ Browser final_0033 completed 90s watch!
+2025-07-28 17:18:29,716 - INFO - 📊 Progress: 33 completed, 4 active
+2025-07-28 17:18:29,717 - INFO - 🔪 Surgically closing browser final_0033...
+2025-07-28 17:18:31,731 - INFO - ✅ Browser final_0033 closed gracefully
+2025-07-28 17:18:31,963 - INFO - 🎯 Browser final_0040: Starting final production view...
+2025-07-28 17:18:32,352 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:18:32,370 - INFO - ✅ Browser final_0040 launched (PID: 350085)
+2025-07-28 17:18:32,377 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:18:32,384 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:18:32,386 - INFO - 📺 Loading YouTube through TOR with consent session (17.0s)...
+2025-07-28 17:18:44,561 - INFO - 🎬 Video loaded! Browser final_0038 watching for 90s
+2025-07-28 17:18:44,566 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:18:46,522 - INFO - 🎬 Video loaded! Browser final_0039 watching for 90s
+2025-07-28 17:18:46,522 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:18:49,386 - INFO - 🎬 Video loaded! Browser final_0040 watching for 90s
+2025-07-28 17:18:49,387 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:18:58,758 - INFO - ✅ Browser final_0036 completed 90s watch!
+2025-07-28 17:18:58,758 - INFO - 📊 Progress: 34 completed, 4 active
+2025-07-28 17:18:58,758 - INFO - 🔪 Surgically closing browser final_0036...
+2025-07-28 17:19:00,784 - INFO - ✅ Browser final_0036 closed gracefully
+2025-07-28 17:19:02,093 - INFO - 🎯 Browser final_0041: Starting final production view...
+2025-07-28 17:19:02,096 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:19:02,097 - INFO -    ✅ Completed: 36/50 (72.0%)
+2025-07-28 17:19:02,104 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:19:02,134 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:19:02,135 - INFO -    ⚡ Rate: 2.7 views/minute
+2025-07-28 17:19:02,135 - INFO -    ⏱️ Elapsed: 13.5 minutes
+2025-07-28 17:19:03,578 - INFO - ✅ Browser final_0037 completed 90s watch!
+2025-07-28 17:19:03,581 - INFO - 📊 Progress: 35 completed, 3 active
+2025-07-28 17:19:03,581 - INFO - 🔪 Surgically closing browser final_0037...
+2025-07-28 17:19:03,864 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:19:03,996 - INFO - ✅ Browser final_0041 launched (PID: 351434)
+2025-07-28 17:19:04,001 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:19:04,007 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:19:04,047 - INFO - 📺 Loading YouTube through TOR with consent session (16.6s)...
+2025-07-28 17:19:05,633 - INFO - ✅ Browser final_0037 closed gracefully
+2025-07-28 17:19:05,970 - INFO - 🎯 Browser final_0042: Starting final production view...
+2025-07-28 17:19:07,156 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:19:07,178 - INFO - ✅ Browser final_0042 launched (PID: 351564)
+2025-07-28 17:19:07,178 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:19:07,179 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:19:07,179 - INFO - 📺 Loading YouTube through TOR with consent session (11.2s)...
+2025-07-28 17:19:18,362 - INFO - 🎬 Video loaded! Browser final_0042 watching for 90s
+2025-07-28 17:19:18,374 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:19:20,629 - INFO - 🎬 Video loaded! Browser final_0041 watching for 90s
+2025-07-28 17:19:20,643 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:20:14,579 - INFO - ✅ Browser final_0038 completed 90s watch!
+2025-07-28 17:20:14,588 - INFO - 📊 Progress: 36 completed, 4 active
+2025-07-28 17:20:14,590 - INFO - 🔪 Surgically closing browser final_0038...
+2025-07-28 17:20:16,543 - INFO - ✅ Browser final_0039 completed 90s watch!
+2025-07-28 17:20:16,543 - INFO - 📊 Progress: 37 completed, 4 active
+2025-07-28 17:20:16,543 - INFO - 🔪 Surgically closing browser final_0039...
+2025-07-28 17:20:16,598 - INFO - ✅ Browser final_0038 closed gracefully
+2025-07-28 17:20:17,198 - INFO - 🎯 Browser final_0043: Starting final production view...
+2025-07-28 17:20:17,497 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:20:17,513 - INFO - ✅ Browser final_0043 launched (PID: 352924)
+2025-07-28 17:20:17,514 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:20:17,514 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:20:17,520 - INFO - 📺 Loading YouTube through TOR with consent session (15.6s)...
+2025-07-28 17:20:18,562 - INFO - ✅ Browser final_0039 closed gracefully
+2025-07-28 17:20:18,810 - INFO - 🎯 Browser final_0044: Starting final production view...
+2025-07-28 17:20:18,810 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:20:18,816 - INFO -    ✅ Completed: 39/50 (78.0%)
+2025-07-28 17:20:18,816 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:20:18,822 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:20:18,845 - INFO -    ⚡ Rate: 2.6 views/minute
+2025-07-28 17:20:18,862 - INFO -    ⏱️ Elapsed: 14.8 minutes
+2025-07-28 17:20:19,278 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:20:19,289 - INFO - ✅ Browser final_0044 launched (PID: 353051)
+2025-07-28 17:20:19,289 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:20:19,289 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:20:19,290 - INFO - 📺 Loading YouTube through TOR with consent session (16.4s)...
+2025-07-28 17:20:19,395 - INFO - ✅ Browser final_0040 completed 90s watch!
+2025-07-28 17:20:19,395 - INFO - 📊 Progress: 38 completed, 4 active
+2025-07-28 17:20:19,397 - INFO - 🔪 Surgically closing browser final_0040...
+2025-07-28 17:20:21,415 - INFO - ✅ Browser final_0040 closed gracefully
+2025-07-28 17:20:21,649 - INFO - 🎯 Browser final_0045: Starting final production view...
+2025-07-28 17:20:21,909 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:20:21,922 - INFO - ✅ Browser final_0045 launched (PID: 353271)
+2025-07-28 17:20:21,923 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:20:21,923 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:20:21,923 - INFO - 📺 Loading YouTube through TOR with consent session (11.8s)...
+2025-07-28 17:20:33,098 - INFO - 🎬 Video loaded! Browser final_0043 watching for 90s
+2025-07-28 17:20:33,098 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:20:33,770 - INFO - 🎬 Video loaded! Browser final_0045 watching for 90s
+2025-07-28 17:20:33,774 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:20:35,701 - INFO - 🎬 Video loaded! Browser final_0044 watching for 90s
+2025-07-28 17:20:35,710 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:20:48,391 - INFO - ✅ Browser final_0042 completed 90s watch!
+2025-07-28 17:20:48,392 - INFO - 📊 Progress: 39 completed, 4 active
+2025-07-28 17:20:48,392 - INFO - 🔪 Surgically closing browser final_0042...
+2025-07-28 17:20:50,400 - INFO - ✅ Browser final_0042 closed gracefully
+2025-07-28 17:20:50,679 - INFO - ✅ Browser final_0041 completed 90s watch!
+2025-07-28 17:20:50,680 - INFO - 📊 Progress: 40 completed, 4 active
+2025-07-28 17:20:50,680 - INFO - 🔪 Surgically closing browser final_0041...
+2025-07-28 17:20:51,339 - INFO - 🎯 Browser final_0046: Starting final production view...
+2025-07-28 17:20:52,737 - INFO - ✅ Browser final_0041 closed gracefully
+2025-07-28 17:20:53,133 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:20:53,175 - INFO - ✅ Browser final_0046 launched (PID: 354525)
+2025-07-28 17:20:53,190 - INFO - 🧅 Using TOR port 9051 for IP rotation
+2025-07-28 17:20:53,193 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:20:53,196 - INFO - 📺 Loading YouTube through TOR with consent session (13.1s)...
+2025-07-28 17:20:53,793 - INFO - 🎯 Browser final_0047: Starting final production view...
+2025-07-28 17:20:53,800 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:20:53,811 - INFO -    ✅ Completed: 42/50 (84.0%)
+2025-07-28 17:20:53,812 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:20:53,814 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:20:53,818 - INFO -    ⚡ Rate: 2.7 views/minute
+2025-07-28 17:20:53,820 - INFO -    ⏱️ Elapsed: 15.4 minutes
+2025-07-28 17:20:54,858 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:20:54,965 - INFO - ✅ Browser final_0047 launched (PID: 354639)
+2025-07-28 17:20:54,967 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:20:54,973 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:20:54,979 - INFO - 📺 Loading YouTube through TOR with consent session (13.9s)...
+2025-07-28 17:21:06,338 - INFO - 🎬 Video loaded! Browser final_0046 watching for 90s
+2025-07-28 17:21:06,339 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:21:08,905 - INFO - 🎬 Video loaded! Browser final_0047 watching for 90s
+2025-07-28 17:21:08,905 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:22:03,099 - INFO - ✅ Browser final_0043 completed 90s watch!
+2025-07-28 17:22:03,099 - INFO - 📊 Progress: 41 completed, 4 active
+2025-07-28 17:22:03,099 - INFO - 🔪 Surgically closing browser final_0043...
+2025-07-28 17:22:03,774 - INFO - ✅ Browser final_0045 completed 90s watch!
+2025-07-28 17:22:03,774 - INFO - 📊 Progress: 42 completed, 4 active
+2025-07-28 17:22:03,775 - INFO - 🔪 Surgically closing browser final_0045...
+2025-07-28 17:22:05,101 - INFO - ✅ Browser final_0043 closed gracefully
+2025-07-28 17:22:05,172 - INFO - 🎯 Browser final_0048: Starting final production view...
+2025-07-28 17:22:05,613 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:22:05,618 - INFO - ✅ Browser final_0048 launched (PID: 356151)
+2025-07-28 17:22:05,619 - INFO - 🧅 Using TOR port 9053 for IP rotation
+2025-07-28 17:22:05,619 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:22:05,619 - INFO - 📺 Loading YouTube through TOR with consent session (11.3s)...
+2025-07-28 17:22:05,711 - INFO - ✅ Browser final_0044 completed 90s watch!
+2025-07-28 17:22:05,711 - INFO - 📊 Progress: 43 completed, 4 active
+2025-07-28 17:22:05,711 - INFO - 🔪 Surgically closing browser final_0044...
+2025-07-28 17:22:05,779 - INFO - ✅ Browser final_0045 closed gracefully
+2025-07-28 17:22:05,910 - INFO - 🎯 Browser final_0049: Starting final production view...
+2025-07-28 17:22:06,124 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:22:06,136 - INFO - ✅ Browser final_0049 launched (PID: 356187)
+2025-07-28 17:22:06,136 - INFO - 🧅 Using TOR port 9052 for IP rotation
+2025-07-28 17:22:06,137 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:22:06,137 - INFO - 📺 Loading YouTube through TOR with consent session (10.6s)...
+2025-07-28 17:22:07,712 - INFO - ✅ Browser final_0044 closed gracefully
+2025-07-28 17:22:07,818 - INFO - 🎯 Browser final_0050: Starting final production view...
+2025-07-28 17:22:07,819 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:22:07,821 - INFO -    ✅ Completed: 45/50 (90.0%)
+2025-07-28 17:22:07,824 - INFO -    🪟 Active browsers: 4
+2025-07-28 17:22:07,825 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:22:07,825 - INFO -    ⚡ Rate: 2.7 views/minute
+2025-07-28 17:22:07,826 - INFO -    ⏱️ Elapsed: 16.6 minutes
+2025-07-28 17:22:08,040 - INFO - ✅ Consent cookies created for browser
+2025-07-28 17:22:08,050 - INFO - ✅ Browser final_0050 launched (PID: 356312)
+2025-07-28 17:22:08,053 - INFO - 🧅 Using TOR port 9050 for IP rotation
+2025-07-28 17:22:08,054 - INFO - 👤 Using manual consent session (no clicking needed)
+2025-07-28 17:22:08,055 - INFO - 📺 Loading YouTube through TOR with consent session (10.7s)...
+2025-07-28 17:22:16,752 - INFO - 🎬 Video loaded! Browser final_0049 watching for 90s
+2025-07-28 17:22:16,753 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:22:16,899 - INFO - 🎬 Video loaded! Browser final_0048 watching for 90s
+2025-07-28 17:22:16,903 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:22:18,718 - INFO - 🎬 Video loaded! Browser final_0050 watching for 90s
+2025-07-28 17:22:18,718 - INFO - 🔊 Audio should be playing - check speakers!
+2025-07-28 17:22:36,339 - INFO - ✅ Browser final_0046 completed 90s watch!
+2025-07-28 17:22:36,343 - INFO - 📊 Progress: 44 completed, 4 active
+2025-07-28 17:22:36,358 - INFO - 🔪 Surgically closing browser final_0046...
+2025-07-28 17:22:38,361 - INFO - ✅ Browser final_0046 closed gracefully
+2025-07-28 17:22:38,906 - INFO - ✅ Browser final_0047 completed 90s watch!
+2025-07-28 17:22:38,906 - INFO - 📊 Progress: 45 completed, 3 active
+2025-07-28 17:22:38,906 - INFO - 🔪 Surgically closing browser final_0047...
+2025-07-28 17:22:40,912 - INFO - ✅ Browser final_0047 closed gracefully
+2025-07-28 17:23:46,756 - INFO - ✅ Browser final_0049 completed 90s watch!
+2025-07-28 17:23:46,757 - INFO - 📊 Progress: 46 completed, 2 active
+2025-07-28 17:23:46,757 - INFO - 🔪 Surgically closing browser final_0049...
+2025-07-28 17:23:46,904 - INFO - ✅ Browser final_0048 completed 90s watch!
+2025-07-28 17:23:46,904 - INFO - 📊 Progress: 47 completed, 2 active
+2025-07-28 17:23:46,904 - INFO - 🔪 Surgically closing browser final_0048...
+2025-07-28 17:23:48,719 - INFO - ✅ Browser final_0050 completed 90s watch!
+2025-07-28 17:23:48,719 - INFO - 📊 Progress: 48 completed, 2 active
+2025-07-28 17:23:48,719 - INFO - 🔪 Surgically closing browser final_0050...
+2025-07-28 17:23:48,758 - INFO - ✅ Browser final_0049 closed gracefully
+2025-07-28 17:23:48,825 - INFO - 📊 PROGRESS REPORT:
+2025-07-28 17:23:48,825 - INFO -    ✅ Completed: 48/50 (96.0%)
+2025-07-28 17:23:48,825 - INFO -    🪟 Active browsers: 2
+2025-07-28 17:23:48,825 - INFO -    🧅 TOR instances: 4
+2025-07-28 17:23:48,825 - INFO -    ⚡ Rate: 2.6 views/minute
+2025-07-28 17:23:48,825 - INFO -    ⏱️ Elapsed: 18.3 minutes
+2025-07-28 17:23:48,912 - INFO - ✅ Browser final_0048 closed gracefully
+2025-07-28 17:23:50,720 - INFO - ✅ Browser final_0050 closed gracefully
+2025-07-28 17:23:50,785 - INFO - 📄 Final report saved to logs/
+2025-07-28 17:23:50,786 - INFO - 🧹 Starting final production cleanup...
+2025-07-28 17:23:51,820 - INFO - ✅ Cleaned up TOR instance 3
+2025-07-28 17:23:52,952 - INFO - ✅ Cleaned up TOR instance 2
+2025-07-28 17:23:53,975 - INFO - ✅ Cleaned up TOR instance 0
+2025-07-28 17:23:54,988 - INFO - ✅ Cleaned up TOR instance 1
+2025-07-28 17:23:54,989 - INFO - ✅ Final production cleanup complete

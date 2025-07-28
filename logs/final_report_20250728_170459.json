@@ -1,0 +1,12 @@
+{
+  "session_id": "20250728_170459",
+  "timestamp": "2025-07-28T17:23:50.766904",
+  "target_views": 50,
+  "completed_views": 48,
+  "failed_views": 2,
+  "success_rate": 96.0,
+  "total_time_minutes": 18.330885370572407,
+  "views_per_minute": 2.618531458227167,
+  "tor_instances_used": 4,
+  "consent_handling": "manual_human"
+}
